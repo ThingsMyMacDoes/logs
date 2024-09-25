@@ -1,0 +1,2092 @@
+2024-09-24 16:29:49	-->	pi1 (~pi@2a02:a03f:e95e:5200:a09a:99a5:74a0:de7d) has joined #philosophy
+2024-09-24 16:29:49	--	Topic for #philosophy is ".wea down until further notice | Yahoo is part of the Yahoo family of brands. | rkorandy's knee is healed | do the needful"
+2024-09-24 16:29:49	--	Topic set by jogmaster (sid325715@hampstead.irccloud.com) on Mon, 23 Sep 2024 04:53:40
+2024-09-24 16:29:49	--	Channel #philosophy: 97 nicks (17 ops, 79 voices, 1 normal)
+2024-09-24 16:29:51	--	Channel created on Wed, 11 Jul 2001 22:36:20
+2024-09-24 16:30:04	@xartet	or theyre desperate ;p
+2024-09-24 16:30:12	@roygbiv	no they want to train me more
+2024-09-24 16:30:45	@roygbiv	i wonder if somebody quit recently
+2024-09-24 16:30:52	@roygbiv	i gotta ask around
+2024-09-24 16:30:57	+space	nice that means you passed the idiot test
+2024-09-24 16:31:19	+space	aka they think you can cut it, as it were
+2024-09-24 16:31:21	@roygbiv	making salads for the restaurant was very fun
+2024-09-24 16:31:31	@roygbiv	i tried to make them as tasty as possible and appetizing looking
+2024-09-24 16:32:39	@roygbiv	im gonna write down the recipes and bring them home
+2024-09-24 16:34:05	@roygbiv	anselm do you like pat benatar?
+2024-09-24 16:34:19	+Anselm	she was ok in her day
+2024-09-24 16:34:23	+space	oh wow you just memorized the all?
+2024-09-24 16:34:34	+space	or they have a card up or what?
+2024-09-24 16:34:34	@roygbiv	anselm how old were you in the 80s, your twenties?
+2024-09-24 16:34:45	+Anselm	yeah 22 in 80
+2024-09-24 16:34:56	@roygbiv	did you do a lot of drugs?
+2024-09-24 16:35:05	+Anselm	as many as possible.
+2024-09-24 16:35:08	@roygbiv	lol
+2024-09-24 16:35:43	+Anselm	i could not keep up with my younger self
+2024-09-24 16:36:07	@roygbiv	i never touched alcohol or drugs until my late twenties
+2024-09-24 16:36:29	+Anselm	sex and drugs and rock and roll by 15
+2024-09-24 16:36:56	--	You are now known as easynow
+2024-09-24 16:37:00	+Anselm	went on the piss when i was 18
+2024-09-24 16:37:28	@roygbiv	i didnt have sex until my late twenties
+2024-09-24 16:38:33	@roygbiv	bbbunni what are the side effects if trazadone for you?
+2024-09-24 16:39:53	+christ	;p is a sign you are hanging out with a bad crowd.
+2024-09-24 16:40:11	+christ	team arrested development.
+2024-09-24 16:40:54	@roygbiv	hi christ
+2024-09-24 16:41:01	@roygbiv	how are you?
+2024-09-24 16:41:02	+christ	hi comrade
+2024-09-24 16:41:08	+christ	sleepy, good.
+2024-09-24 16:41:10	+christ	you?
+2024-09-24 16:41:17	@roygbiv	im good
+2024-09-24 16:41:53	@roygbiv	do you have problems sleeping christ?
+2024-09-24 16:42:04	@roygbiv	we were talking about it earlier
+2024-09-24 16:42:05	+christ	yeah when i don't smoke weed.
+2024-09-24 16:42:11	@roygbiv	oh
+2024-09-24 16:42:18	@roygbiv	you use weed as your night cap?
+2024-09-24 17:33:58	-->	pi1 (~pi@2a02:a03f:e95e:5200:a09a:99a5:74a0:de7d) has joined #philosophy
+2024-09-24 17:33:58	--	Topic for #philosophy is ".wea down until further notice | Yahoo is part of the Yahoo family of brands. | rkorandy's knee is healed | do the needful"
+2024-09-24 17:33:58	--	Topic set by jogmaster (sid325715@hampstead.irccloud.com) on Mon, 23 Sep 2024 04:53:40
+2024-09-24 17:33:58	--	Channel #philosophy: 94 nicks (16 ops, 77 voices, 1 normal)
+2024-09-24 17:33:59	+space	Well, its complicated but no, wormholes are systems with NO stargates, only wormholes. its a special area of space we call jspace
+2024-09-24 17:34:00	--	Channel created on Wed, 11 Jul 2001 22:36:20
+2024-09-24 17:34:28	+J-hex	heh cool a jspace just for J
+2024-09-24 17:34:31	+space	theres no warping system to system, you have to use a special module to scan the wormholes and find a random route. we have a very complex system for mapping and navigating this ever-changing landscape.
+2024-09-24 17:34:42	+space	i dunno what the j comes from 
+2024-09-24 17:34:53	+space	WEormholes also have its own actually religion.
+2024-09-24 17:35:01	+space	it is a real religion, but it is also a joke like FSM.
+2024-09-24 17:35:20	+J-hex	cool FSM is hilarious
+2024-09-24 17:35:26	+space	Yup, ours is called Bob
+2024-09-24 17:35:28	+J-hex	as is Jedism
+2024-09-24 17:35:33	+space	Praise Bob.
+2024-09-24 17:35:40	+J-hex	hailBob
+2024-09-24 17:35:46	+J-hex	we knowis the Bob
+2024-09-24 17:35:49	+space	Bob is the patron saint and ruling diety of "jspace" or another word for it is "Anoikis"
+2024-09-24 17:35:54	+J-hex	tips hat and pipe
+2024-09-24 17:36:09	+J-hex	Slack in search Of
+2024-09-24 17:36:17	+space	we have names for different areas of space. Empire space, jspace, nullsec, drone lands, and tralge/pochven
+2024-09-24 17:36:26	+space	triangle*
+2024-09-24 17:36:34	+space	the triangles are bullshit. fuck triangles.
+2024-09-24 17:36:40	+J-hex	lol
+2024-09-24 17:36:50	+space	i dont fuck with triangle shit
+2024-09-24 17:36:55	+space	way over my head
+2024-09-24 17:36:57	+J-hex	my .mil bud talks of triangles a lot
+2024-09-24 17:37:16	+space	we have a LOT of active, and former military
+2024-09-24 17:37:17	+J-hex	hebee mia at moment, fucker better be ok
+2024-09-24 17:37:37	+space	they are good
+2024-09-24 17:37:45	+J-hex	yeah all .mils i know game a lot in one flavor or another 
+2024-09-24 17:37:49	+space	god my best compatriots were military guys. loved em!
+2024-09-24 17:37:54	+J-hex	same with cia goobers
+2024-09-24 17:38:03	+space	we had one guy who was an ordinance removal technician. he was blown up by an IED
+2024-09-24 17:38:18	+space	it took his voice, so hes like ill play games. loved eve, but it took his voice
+2024-09-24 17:38:29	+J-hex	ouch
+2024-09-24 17:38:29	+space	you HAVE TO TALK in eve online to be a serious player. you need a mic.
+2024-09-24 17:38:42	+space	it was so ahrd for him but we went out of our way to fucking read and type.
+2024-09-24 17:38:56	+J-hex	i have all that only good shit we purchase
+2024-09-24 17:38:58	+space	he isa  good guy, he lives in italy now chilling out with his family :)
+2024-09-24 17:39:11	+space	last i heard he was getting experimental surgery to restore his voice
+2024-09-24 17:39:17	+J-hex	water proof ;)
+2024-09-24 17:39:32	+space	he lived in the wormhole with me
+2024-09-24 17:39:48	+space	it was a lot of effort, i will say frankly
+2024-09-24 17:39:49	+J-hex	italy looks nice never been that far south in europe
+2024-09-24 17:40:49	+J-hex	a few libraries i wanna checkout someday
+2024-09-24 17:40:59	+space	in italy?
+2024-09-24 17:41:04	+J-hex	yep
+2024-09-24 17:41:15	+space	really thats interesting, what and why those library?
+2024-09-24 17:41:16	+J-hex	the vat a can has a book or two i wanna view
+2024-09-24 17:41:23	+space	hmm cool 
+2024-09-24 17:41:50	+space	we have a rare book museum in my city, we have the original manuscript of "Ulysses"
+2024-09-24 17:44:01	+Shirts	in ireland/
+2024-09-24 17:44:04	+Shirts	?
+2024-09-24 17:44:07	@xartet	youre in philly?
+2024-09-24 17:47:14	+incog	another shift defeated, the slow march to the weekend continues
+2024-09-24 17:47:36	<--	justiz (dicknutz@we.got.max.hoes.at.homaxcorp.com) has quit (Remote host closed the connection)
+2024-09-24 17:47:46	+tsarmabob	aliexpress generates a retarded amount of spam per order
+2024-09-24 17:49:20	+harelip	the internet is abusing the cowboys https://i.imgur.com/Jvck2RT.jpeg
+2024-09-24 17:49:46	-->	justiz (dicknutz@2001:470:e0d3:b00b:face::1) has joined #philosophy
+2024-09-24 17:49:49	<--	justiz (dicknutz@2001:470:e0d3:b00b:face::1) has quit (Client Quit)
+2024-09-24 17:49:56	-->	justiz (dicknutz@we.got.max.hoes.at.homaxcorp.com) has joined #philosophy
+2024-09-24 17:50:03	-->	Neff (Neff@2601:406:180:49dc:e189:b02f:f92:3f59) has joined #philosophy
+2024-09-24 17:50:05	Neff	.wea
+2024-09-24 17:50:09	Neff	.wea rouyn
+2024-09-24 17:50:11	Neff	.wea onancock
+2024-09-24 17:50:14	Neff	.wea natchez
+2024-09-24 17:50:17	Neff	.wea san diego
+2024-09-24 17:50:19	Neff	.wea denver
+2024-09-24 17:50:25	Neff	.wea port alberni
+2024-09-24 17:50:30	-->	r0b (~r0b@syn-065-191-073-224.res.spectrum.com) has joined #philosophy
+2024-09-24 17:50:30	Neff	.wea puerto vallarta
+2024-09-24 17:50:37	Neff	xartet is a gayboy
+2024-09-24 17:50:38	<--	Neff (Neff@2601:406:180:49dc:e189:b02f:f92:3f59) has left #philosophy (Leaving)
+2024-09-24 17:52:56	<--	r0b (~r0b@syn-065-191-073-224.res.spectrum.com) has quit (Client Quit)
+2024-09-24 17:53:22	-->	roygbiv (uid432317@id-432317.helmsley.irccloud.com) has joined #philosophy
+2024-09-24 17:53:27	--	Mode #philosophy [+o-b roygbiv c0b!VhoN@TFmw+UmZMYvWkWdOdFaJpg==] by maya
+2024-09-24 17:55:20	+tsarmabob	https://www.nbcnews.com/news/us-news/brett-favre-tells-congress-diagnosed-parkinsons-rcna172440
+2024-09-24 17:55:20	@phaedra	[url] Access Denied | www.nbcnews.com ( https://tinyurl.com/2bnt8sxh )
+2024-09-24 17:55:44	+tsarmabob	why is he even bullshitting the house? they're on HIS side
+2024-09-24 17:56:01	+tsarmabob	they love it when rich white men steal tax money on behalf of their daughters
+2024-09-24 18:01:17	@roygbiv	i guess ill have a banana for lunch
+2024-09-24 18:04:43	@roygbiv	i get friday and saturday off woot
+2024-09-24 18:05:34	+harelip	poor Brett. 
+2024-09-24 18:06:00	+harelip	Parkinsons made him rip off money.
+2024-09-24 18:16:01	-->	Roanoke (~Roanoke@69-82.cablevision.qc.ca) has joined #philosophy
+2024-09-24 18:16:19	Roanoke	Guud Afternoon To All !
+2024-09-24 18:17:37	Roanoke	Styr Fry Day today. Shrimp. jasmin rice. bacon basted in shiracha.
+2024-09-24 18:18:09	Roanoke	simple 30 minutes crap.
+2024-09-24 18:18:21	Roanoke	there is a bird seed pepper in it.
+2024-09-24 18:18:33	Roanoke	keep the seed or not.
+2024-09-24 18:18:49	-->	seguesan (~seguesan@45.132.159.103) has joined #philosophy
+2024-09-24 18:20:25	@roygbiv	i love the fried rice at work for staff meals
+2024-09-24 18:20:36	@roygbiv	and the fried tofu
+2024-09-24 18:21:27	seguesan	no protein?
+2024-09-24 18:21:33	@roygbiv	its the tofu
+2024-09-24 18:22:07	seguesan	meat tho
+2024-09-24 18:23:51	Roanoke	shrimps mon.
+2024-09-24 18:25:01	Roanoke	I usually unvegan the vegan meal kits im using. At my own cost I might add. Like +3.99$ for adding 2 chicken breasts or 4 strips of bacon.
+2024-09-24 18:25:50	Roanoke	this meal kit has 4 strips of bacon and about 285 grams of jumbo shrimps from the gulf of Mexico.
+2024-09-24 18:26:17	Roanoke	big shrimps.
+2024-09-24 18:27:16	Roanoke	4 strips o' bacon = 100 grams.
+2024-09-24 18:28:08	+incog	https://pbs.twimg.com/media/GYPsyApXsAE80Bq?format=jpg&name=small somehow its getting even worse for truth social
+2024-09-24 18:28:32	seguesan	skrimpz++
+2024-09-24 18:28:46	 *	seguesan . o O ( https://www.youtube.com/shorts/dBz5ldjtyQc
+2024-09-24 18:28:47	@phaedra	[YouTube] ⁨“But he likes it!”⁩ | 50s | Channel: ⁨My Dog’s Dope⁩ | 87,221 views | 2024-08-04 - 19:23:50 UTC
+2024-09-24 18:28:50	<--	seguesan (~seguesan@45.132.159.103) has quit
+2024-09-24 18:30:35	@roygbiv	there is a set up station at work kinda like a meal kit on a metal tray and you give it to the line cook to cook on the wok and at dinner rush there are a 100 trays of meal kits
+2024-09-24 18:31:22	+incog	countdown to when djt gets delisted from the nasdaq
+2024-09-24 18:34:53	Roanoke	After the elections ?
+2024-09-24 18:35:10	+Anselm	think iy has to go below $1.00
+2024-09-24 18:35:36	+Anselm	for 30 trading days
+2024-09-24 18:35:42	Roanoke	Ah.
+2024-09-24 18:35:45	@roygbiv	its raining today gotta wear my blundstones
+2024-09-24 18:35:51	Roanoke	.wea
+2024-09-24 18:36:11	Roanoke	14 C here according to Micro$ucks.
+2024-09-24 18:36:43	Roanoke	Rain expected at 20:00
+2024-09-24 18:37:12	@roygbiv	gotta wear my raincoat gonna rain when im finished work
+2024-09-24 18:37:53	+bbbunni	https://music.youtube.com/watch?v=USGj45YVO1k&si=IAZ9FcSaT3jtKrHl
+2024-09-24 18:37:53	@phaedra	[YouTube] ⁨Crack My Skull⁩ | 2m 34s | Channel: ⁨Adam Gold - Topic⁩ | 3 views | 2024-09-18 - 23:26:01 UTC
+2024-09-24 18:38:19	Roanoke	Paint a few bacon strips with shiracha and let it bake in the oven for 10 minutes at 425 F  ... Its a cruchy treat.
+2024-09-24 18:38:27	Roanoke	crunchy
+2024-09-24 18:38:39	@roygbiv	thats a good idea roanoke!
+2024-09-24 18:38:44	@roygbiv	i like painting on the sauce
+2024-09-24 18:38:51	@roygbiv	we have a silicone brush
+2024-09-24 18:39:09	+bbbunni	Everyone dance now
+2024-09-24 18:39:31	Roanoke	Roygbiv. Yeah, there is something very artistic rush about it.
+2024-09-24 18:39:57	@roygbiv	lol roanoke
+2024-09-24 18:40:00	@roygbiv	ya
+2024-09-24 18:40:18	Roanoke	Good day Bbbunny !
+2024-09-24 18:40:51	+bbbunni	:)
+2024-09-24 18:41:09	@roygbiv	hi bbbunni\
+2024-09-24 18:42:28	@roygbiv	my husband said to pick up dinner and i dont know what he wants to cook and i caved and bought a taco kit
+2024-09-24 18:42:44	+bbbunni	Lol
+2024-09-24 18:42:50	@roygbiv	i got a tomato avocado cheese and sour cream
+2024-09-24 18:42:57	@roygbiv	ground beef
+2024-09-24 18:43:02	+bbbunni	Yum tacos
+2024-09-24 18:43:23	@roygbiv	im not picky with dinner when i come home from work ill shove anything in my mouth and go to sleep
+2024-09-24 18:44:32	@roygbiv	i know how to make taco seasoning from scratch
+2024-09-24 18:46:44	-->	ort (~igloo@109.138.241.206) has joined #philosophy
+2024-09-24 18:49:08	Roanoke	Tomorrow im having taco day. its asian fried chicken delux tacos...
+2024-09-24 18:49:24	Roanoke	Im getting out the fryer for that one.
+2024-09-24 18:50:09	Roanoke	its peanut oil time.
+2024-09-24 18:50:53	@roygbiv	roanoke how many portions of food do you get in one recipe?
+2024-09-24 18:51:09	+incog	watching this trump presser about if he wins he's going to remove the sanctions on russia and iran, he's just saying it out loud, the reason why he's back by them and why they astroturf alt media on their dime for him
+2024-09-24 18:51:12	ort	I make peanut butter￼/coconut milk marinade for that chicken
+2024-09-24 18:51:14	+Anselm	If the G7 ministers dither long enough about sending long range missiles into Russia, Russia will conquer Ukraine and the problem will go away.
+2024-09-24 18:51:26	@roygbiv	peanut butter and coconut milk what what?
+2024-09-24 18:51:48	+Anselm	just shut your eyes and the problem will go away
+2024-09-24 18:51:52	--	Mode #philosophy [+v justiz] by roygbiv
+2024-09-24 18:51:54	--	Mode #philosophy [+v ort] by roygbiv
+2024-09-24 18:51:57	--	Mode #philosophy [+v pi1] by roygbiv
+2024-09-24 18:51:59	--	Mode #philosophy [+v Roanoke] by roygbiv
+2024-09-24 18:51:59	+incog	strange how the "anti-globalists" are against sanctions, considering its globalism willingly doing a selfharm
+2024-09-24 18:52:11	+Roanoke	ort. im using panko bread crumbs.
+2024-09-24 18:52:24	+incog	its because it was just always a cover
+2024-09-24 18:52:28	+Anselm	I dont think the west really wants ukraine to win anyway
+2024-09-24 18:52:29	@roygbiv	i only use panko bread crumbs no other crumb
+2024-09-24 18:52:29	+ort	Satay sauce. Peanut butter coconut oil some paprika powder, sweet baked sambal
+2024-09-24 18:52:45	+ort	And some sweet soy sauce
+2024-09-24 18:52:50	+space	downside to sactions is it can really affect civilians. look at venezuela
+2024-09-24 18:52:53	+Anselm	lets promise to send junk and then bury it instead
+2024-09-24 18:53:09	+ort	Ideally you grind up peanuts instead of using ready made
+2024-09-24 18:53:09	+Anselm	let's promise and not deliver
+2024-09-24 18:53:23	+space	the best job in Venezuela is Runescape Gold Farmer :/
+2024-09-24 18:53:46	+Anselm	I don't think the western nations have any balls.
+2024-09-24 18:53:48	@roygbiv	fuck my work keeps changing the schedule jesus
+2024-09-24 18:54:17	+Roanoke	Roygbiv. its a two portions meal kit on average. Some deluxe ones you could feed 3 peoples like the steak I had yesterday. Sometime id say its an 1.5 portion with barely enough to have left overs.
+2024-09-24 18:54:26	+Roanoke	on average its 2.
+2024-09-24 18:54:26	+ort	Coconut milk not oil
+2024-09-24 18:54:40	@roygbiv	roanoke oh i see that should be enough food for your belly
+2024-09-24 18:54:48	+space	I substitute Coconut Milk for MCT Oil.
+2024-09-24 18:54:55	+space	I've never had a problem.
+2024-09-24 18:56:00	+Roanoke	Never played Runescape.
+2024-09-24 18:56:13	+Anselm	roygbiv you have to handle that. people walk out all the time
+2024-09-24 18:57:18	+Anselm	big staff turnover
+2024-09-24 18:57:42	+space	its one of those things .. i dont recommend
+2024-09-24 18:57:44	<--	fleerbap (uid321433@id-321433.tinside.irccloud.com) has quit (Quit: Connection closed for inactivity)
+2024-09-24 18:57:57	+space	I DO however recommend Ultima Online (Freeshards)
+2024-09-24 18:58:10	+space	very welcoming and genuine community can be found.
+2024-09-24 18:58:12	+Anselm	anyone remember that UHT milk in the tetrapacks?
+2024-09-24 18:58:39	+Anselm	didnt need to be refrigerated
+2024-09-24 18:58:43	+ort	Sure. They still sell that here
+2024-09-24 18:59:07	+Anselm	I tried it once and it was pretty vommy
+2024-09-24 18:59:19	+ort	That’s the one
+2024-09-24 18:59:50	+ort	Milk isn’t supposed to hold for 6 months
+2024-09-24 18:59:56	@roygbiv	anselm its not hard
+2024-09-24 19:00:09	+space	milk is gross. milk is for babies.
+2024-09-24 19:00:15	@roygbiv	you gotta be able to cope with stress and pressure in the kitchen
+2024-09-24 19:00:25	+Anselm	milk is ok in coffee
+2024-09-24 19:00:27	+ort	No you’re gross
+2024-09-24 19:00:30	+ort	You baby
+2024-09-24 19:01:09	+Anselm	almond milk is worse than cow milk
+2024-09-24 19:01:17	+Anselm	thin and tasteless
+2024-09-24 19:01:34	+ort	If it doesn’t come out of a cows ass it ain’t milk
+2024-09-24 19:01:36	+space	oat milk can be ok
+2024-09-24 19:01:37	+howto	cows ass-it
+2024-09-24 19:01:44	+space	it does steam pretty well if you get a latte
+2024-09-24 19:01:52	+space	its NOT THE SAME 
+2024-09-24 19:02:01	+Anselm	yeah earths own oat milk is ok but silk oat milk is to smeggy and vommy
+2024-09-24 19:02:15	+space	i will contend that milk in a cappucino or latte is the only civilized choice. I am not psycho.
+2024-09-24 19:02:46	+ort	Because latte is Italian for what ?
+2024-09-24 19:02:51	+Anselm	you aren't really psycho unless you walk around with a raincoat and a breadknife
+2024-09-24 19:02:54	-->	Timur (~Timur@c-68-82-55-200.hsd1.pa.comcast.net) has joined #philosophy
+2024-09-24 19:03:09	+incog	we still sell UHT milk here, same with powdered milk that lasts even longer
+2024-09-24 19:03:11	+space	I'm not Italian
+2024-09-24 19:03:11	+Anselm	latte is Italian for "That will be an extra $6 please"
+2024-09-24 19:05:15	+ort	Thursday is fresh milk day. 1euro/liter straight from the farm
+2024-09-24 19:05:33	+incog	coffee culture didnt really make inroads here, you wont see a french press in brit kitchens or a coffee pot
+2024-09-24 19:05:49	Timur	ort: nice. Where are you, roughly?
+2024-09-24 19:06:02	+ort	Roughly in Western Europe
+2024-09-24 19:06:09	+Anselm	the upper classes drink coffee
+2024-09-24 19:06:28	+Anselm	they have to be continental
+2024-09-24 19:06:29	Timur	ort: nice. I remember getting that in France, pretty regularly.. we stayed in Dordogne one summer
+2024-09-24 19:06:35	+ort	Can’t trust people who drink tea
+2024-09-24 19:06:40	+ort	Just saying
+2024-09-24 19:08:03	+ort	Beautiful region Dordogne
+2024-09-24 19:09:00	Timur	yessir
+2024-09-24 19:09:13	+space	https://www.youtube.com/watch?v=A10Y0k763SE
+2024-09-24 19:09:13	@phaedra	[YouTube] ⁨Tenacious D - The Government Totally Sucks, Outside White House⁩ | 1m 27s | Channel: ⁨thomastute⁩ | 66,474 views | 2018-11-08 - 16:55:52 UTC
+2024-09-24 19:09:29	@roygbiv	gotta get dressed for work
+2024-09-24 19:09:39	+incog	what you do see here is instant coffee granules and an electric kettle
+2024-09-24 19:09:41	+ort	Good idea Roy
+2024-09-24 19:10:27	Timur	instant coffee I have sworn off ever since my 3 months on a kibbutz
+2024-09-24 19:10:33	+Anselm	yes. instant coffee when at home
+2024-09-24 19:10:41	+incog	i remember when i was translating all the anarchists cookbooks brand names in their explosives recipes into chemical names as a kid, as we dont have the same brands, you would have a hard time finding coffee filters here
+2024-09-24 19:11:03	+incog	14yr old me was looking at it thinking "wtf is a chlorox"
+2024-09-24 19:11:23	+Anselm	i remember having to use coffee filters as toilet paper when I forgot to get tp before the convenience store closed.
+2024-09-24 19:11:44	+Anselm	javex I think
+2024-09-24 19:12:44	+ort	Bialetti is where it’s at
+2024-09-24 19:13:52	+incog	tea is very big here
+2024-09-24 19:13:59	+ort	No filters needed. Good for the end times
+2024-09-24 19:14:08	+incog	used to be that the entry level job into the office was to be hired as a the tea boy
+2024-09-24 19:14:20	Timur	chai wala
+2024-09-24 19:14:21	+Anselm	I stocked up on tp and bottled water for the end times
+2024-09-24 19:14:30	+incog	basically all you did all day was make tea for others, maybe some photocopying
+2024-09-24 19:14:56	+Anselm	oh here you start as the mail room clerk and everyone makes their own tea
+2024-09-24 19:15:11	+J-hex	Anselm: so you can wasser board them
+2024-09-24 19:15:34	+Anselm	in north america what people like to do is steal lunches from other people in the staff fridge
+2024-09-24 19:15:52	+Anselm	so then the victims boobytrap them
+2024-09-24 19:15:52	+incog	is it still water boarding if i use diesel? hit me back international criminal court
+2024-09-24 19:16:58	+Anselm	I remember they would serve lunch in english companies for £1.30
+2024-09-24 19:17:18	+Anselm	hire a cook and everything
+2024-09-24 19:17:49	+Anselm	if you asked for that in canada they would say fuck you get your own lunch
+2024-09-24 19:18:09	+Anselm	except restaurants
+2024-09-24 19:18:24	+incog	you dont see that now, its people munching a supermarket sandwich that costs $4 and is just a slice of ham
+2024-09-24 19:18:28	+howto	You know incog, munching a supermarket is much like making love to a beautiful woman
+2024-09-24 19:18:30	+howto	You've got to employ the single
+2024-09-24 19:18:32	+howto	salivat the badguy
+2024-09-24 19:18:34	+howto	and finally wav the springfield.
+2024-09-24 19:18:44	+Anselm	IN SPRINGFIELD
+2024-09-24 19:19:21	+Anselm	They are eating the dogs..
+2024-09-24 19:27:07	+camazotz	hahaha: https://www.youtube.com/watch?v=ym8kcHc6dC4
+2024-09-24 19:27:07	@phaedra	[YouTube] ⁨Woke Students Support Socialism... Until It's Applied To Their GPA⁩ | 10m | Channel: ⁨The Based Conservative⁩ | 1,344,354 views | 2024-09-17 - 00:30:35 UTC
+2024-09-24 19:29:18	+bbbunni	the hatians are all into voodo
+2024-09-24 19:29:29	+bbbunni	they probably are just sacrificing them
+2024-09-24 19:29:51	+bbbunni	and then maybe eating them, why let meat go to waste?
+2024-09-24 19:31:30	+incog	its not happening bbbunni, it all came from 1 american police chestcam vid of a crazy black woman who killed a cat on a driveway with her teeth, this was seen by the propaganda team and turned into "migrants will eat your pets"
+2024-09-24 19:31:41	+bbbunni	https://en.wikipedia.org/wiki/Haitian_Vodou
+2024-09-24 19:31:50	+bbbunni	i don't know
+2024-09-24 19:31:50	+space	the cat is named Miss Sassy
+2024-09-24 19:31:51	+incog	i even called it on the same day that footage was released
+2024-09-24 19:31:56	+bbbunni	they are all into voodo
+2024-09-24 19:32:00	+space	incog: The Cat is name Miss Sassy
+2024-09-24 19:32:12	+space	the cat is fine.
+2024-09-24 19:32:16	+bbbunni	and some people are sketchy 
+2024-09-24 19:32:19	+J-hex	miss take goe home
+2024-09-24 19:33:20	+space	this is hard to find im lookin for it
+2024-09-24 19:34:35	+incog	lol russia is threatening to nuke london again
+2024-09-24 19:35:09	+ort	Will they sell their mansions in London first ..
+2024-09-24 19:35:33	+incog	simulations of what a nuke blast over london would look like circulating on telegram
+2024-09-24 19:35:35	+space	Ok got it
+2024-09-24 19:35:56	+space	this is the direct to find-out-what-happened to cat timestamp https://youtu.be/OF_nzawHoDM?t=1409
+2024-09-24 19:35:57	@phaedra	[YouTube] ⁨Mr. Beast Sued for Chronic Mistreatment?! JD Vance Sinks Lower?! - News Dump⁩ | 40m 36s | Channel: ⁨Internet Today⁩ | 166,899 views | 2024-09-20 - 12:15:07 UTC
+2024-09-24 19:36:15	+space	i followed the trails and did not find obvious inconsistencies
+2024-09-24 19:36:36	+ort	There would be consequences to doing that
+2024-09-24 19:36:54	+space	heres the whole segment, trump people dont bother: tl;dr its fake. https://youtu.be/OF_nzawHoDM?t=1226
+2024-09-24 19:36:54	@phaedra	[YouTube] ⁨Mr. Beast Sued for Chronic Mistreatment?! JD Vance Sinks Lower?! - News Dump⁩ | 40m 36s | Channel: ⁨Internet Today⁩ | 166,899 views | 2024-09-20 - 12:15:07 UTC
+2024-09-24 19:37:42	 *	space chows down on a third McDonald's Mc cat&dog McMuffin
+2024-09-24 19:38:16	+incog	that isnt the genesis of the prop, the bodycam footage is
+2024-09-24 19:38:17	+incog	https://www.youtube.com/watch?v=jNh9clZUU3Y
+2024-09-24 19:38:17	@phaedra	[YouTube] ⁨BODYCAM | Ohio woman arrested for eating a cat⁩ | 3m 28s | Channel: ⁨WKYC Channel 3⁩ | 747,515 views | 2024-09-11 - 14:36:59 UTC
+2024-09-24 19:38:37	+incog	and the cat was very much dead, you can see it dead on the driveway
+2024-09-24 19:38:39	+space	the cops says no.
+2024-09-24 19:38:42	+incog	but it wasnt a migrant
+2024-09-24 19:39:04	+space	oh i see what your saying its some unrelated animal abuse
+2024-09-24 19:39:06	+incog	it was a crazy black american in ohio
+2024-09-24 19:39:19	+space	they were putting out bounties for proof of this cat thing
+2024-09-24 19:39:36	+space	but vance knew it was fake from the start!
+2024-09-24 19:39:48	+incog	this morphed from a singular event of a crazy into "migrants will eat your pets"
+2024-09-24 19:39:54	+space	No it was totally fake!
+2024-09-24 19:40:10	+incog	its right here https://www.youtube.com/watch?v=jNh9clZUU3Y
+2024-09-24 19:40:10	@phaedra	[YouTube] ⁨BODYCAM | Ohio woman arrested for eating a cat⁩ | 3m 28s | Channel: ⁨WKYC Channel 3⁩ | 747,515 views | 2024-09-11 - 14:36:59 UTC
+2024-09-24 19:40:37	+space	yeah, i'm saying that Vance called the police and asked it the haitin cat story was true (his people). according to the police, they told them No.
+2024-09-24 19:40:38	+incog	it wasnt bbq'd
+2024-09-24 19:40:41	+space	and then vance just said it anyhow
+2024-09-24 19:40:47	+incog	it was bitten to death raw
+2024-09-24 19:41:31	+space	the cat is Miss Sassy and she is fine.  Shes a cutey and they found her in the basement.
+2024-09-24 19:41:47	+space	shes a fluffy fluff AND cutey pie!
+2024-09-24 19:41:49	+incog	completely different case, which was made up and after this
+2024-09-24 19:42:44	+space	Ok, if you are saying that a story not about haitians isnt about a story that was actually a lie about haitins then I will agree
+2024-09-24 19:43:15	+bbbunni	who cares
+2024-09-24 19:43:17	+space	i should go to the haitian store and buy a voodoo doll or something
+2024-09-24 19:43:18	+Anselm	fluffy cats leave fluff all over the place
+2024-09-24 19:43:19	+incog	they bent a story about a crazy black woman biting a cat to death into being about immigrants eating pets
+2024-09-24 19:43:30	+camazotz	https://www.youtube.com/watch?v=_F7mEJ7367Y
+2024-09-24 19:43:31	@phaedra	[YouTube] ⁨“under the Intermediate Scenario”⁩ | 2m 51s | Channel: ⁨Tony Heller⁩ | 5,031 views | 2024-09-24 - 01:18:22 UTC
+2024-09-24 19:43:32	+incog	a singular event
+2024-09-24 19:43:42	+incog	into a made up trend
+2024-09-24 19:43:50	+Anselm	oh bbbunni do you think that American food producers care more about the health of the people who eat the food or profit$?
+2024-09-24 19:43:52	+bbbunni	i went to this caribbean restaurant with my aunt and my mom
+2024-09-24 19:43:55	+space	no, it was not that incog. Vance heard that there was a police report that HJaitians were eating a cat. The police report was a wrong lie and they found the cat in the lady's basement.
+2024-09-24 19:44:00	+bbbunni	profit for sure
+2024-09-24 19:44:14	+bbbunni	and anyway we're eating our chicken whatever we ordered
+2024-09-24 19:44:25	+bbbunni	and i notice, these are not chicken bones
+2024-09-24 19:44:26	+Anselm	if someone died from eating the food that the american food industry made, do you think they would care?
+2024-09-24 19:44:26	+space	the thing your talking about was brought in afterwards where people were dredging for "proof" because people would pay you $USD  to give it to them.
+2024-09-24 19:44:27	+howto	Whoooo I'm naked.
+2024-09-24 19:44:36	+bbbunni	and it's delicious whatever it is
+2024-09-24 19:44:43	+space	but, it was fake. Vance knew it was fake and said it anyhow.
+2024-09-24 19:44:53	+Anselm	truth does not matter now.
+2024-09-24 19:44:58	+bbbunni	and so i kind of freak out and my aunt had the same thing and she starts freaking out
+2024-09-24 19:45:07	+bbbunni	so i told her, oh it's rabbit
+2024-09-24 19:45:09	+Anselm	people are too uneducated to know what the truth is
+2024-09-24 19:45:15	+incog	so its just completely a coincidence that before all this the chestcam footage hit the yt algo? do you see the 700k views on it?
+2024-09-24 19:45:18	+bbbunni	but just to make her not freak out
+2024-09-24 19:45:21	+space	its not a super sduper eassy definition, Truth
+2024-09-24 19:45:29	+bbbunni	and then my mom and aunt went back!
+2024-09-24 19:45:36	+bbbunni	i will never go there again
+2024-09-24 19:45:54	+space	incog: just becasue your video has a lot of view doesnt mean its the thing that Vance was talking about (and knew was not true but instead, stated as fact)
+2024-09-24 19:46:02	+bbbunni	some people in the caribbean do eat cats and dogs
+2024-09-24 19:46:06	+bbbunni	it's gross af
+2024-09-24 19:46:08	+Anselm	Catless man child looking for childless cat lady. Enquire within.
+2024-09-24 19:46:31	+bbbunni	Anselm: they aren't just stupid, i think they are brainwashed
+2024-09-24 19:46:45	+bbbunni	it's easier to brainwash stupid people
+2024-09-24 19:46:58	@xartet	tell us about it, bbbunni 
+2024-09-24 19:47:14	+space	i would eat a McDonald's Mc cat&dog Mac
+2024-09-24 19:47:34	+space	we haven't had a decent cat&dog burger in this country in ... well I dunno, maybe 30, 40 years?
+2024-09-24 19:47:35	+bbbunni	but i only knew one lady on st thomas people said that about her eating cats and dogs
+2024-09-24 19:47:52	+Anselm	they are eating the pets of the people who live there.
+2024-09-24 19:47:54	+bbbunni	so what is that like 1 in 13,000 people?
+2024-09-24 19:47:57	+bbbunni	i dunno
+2024-09-24 19:48:26	+Anselm	you have to resist mcfuckles. They put chemicals in that shit.
+2024-09-24 19:49:00	+bbbunni	once i bought some food from her at a fair and my friend was like, "Oh....uhm she was caught having strung up dead dogs in her back yard, and cooking them"
+2024-09-24 19:49:14	+Anselm	ADD TO CART!
+2024-09-24 19:49:15	+camazotz	https://www.youtube.com/watch?v=ly--isH39nA
+2024-09-24 19:49:16	@phaedra	[YouTube] ⁨Flexible Climate Data⁩ | 5m 11s | Channel: ⁨Tony Heller⁩ | 120 views | 2024-09-24 - 17:43:25 UTC
+2024-09-24 19:49:18	+bbbunni	lol
+2024-09-24 19:50:15	+ort	Is bunnni a real person or a bot ? This isn’t making any sense
+2024-09-24 19:50:36	+bbbunni	what isn't making sense?
+2024-09-24 19:50:40	+bbbunni	are you just dumb
+2024-09-24 19:51:06	+bbbunni	?
+2024-09-24 19:51:12	+incog	they are a real person but they have a habit of calling others stupid while also lacking in intelligence
+2024-09-24 19:51:33	+bbbunni	fuck off
+2024-09-24 19:51:38	+ort	Someone gets caught cooking dead dogs and suddenly she’s selling food at a fair to tourists ?
+2024-09-24 19:51:41	+bbbunni	i'm not lacking intelligence 
+2024-09-24 19:51:51	+bbbunni	no
+2024-09-24 19:51:56	+bbbunni	it was a local fair
+2024-09-24 19:52:26	+Anselm	I suppose it is better than cooking live dogs.
+2024-09-24 19:52:36	+bbbunni	and she was caught and put in jail or whatever way before I went there
+2024-09-24 19:53:16	+incog	this is how effective the propaganda is, it goes from singular event of a nutter into conversation piece everywhere
+2024-09-24 19:53:24	+bbbunni	omg
+2024-09-24 19:53:31	+bbbunni	now i'm a nutter?
+2024-09-24 19:53:33	+bbbunni	lol
+2024-09-24 19:53:35	+bbbunni	fuck you 
+2024-09-24 19:53:44	+bbbunni	i'm telling the truth, deal with it
+2024-09-24 19:53:45	+incog	you're not the nutter who bit a cat to death on a driveway
+2024-09-24 19:54:02	+Anselm	that would be a sign of mental illness
+2024-09-24 19:54:14	+incog	your low intelligence is being displayed right now as you think you are being talked about and not the chestcam footage from ohio
+2024-09-24 19:54:16	+Anselm	poor kitty!
+2024-09-24 19:54:21	+bbbunni	i'm hungry
+2024-09-24 19:54:29	+bbbunni	what should i have for lunch?
+2024-09-24 19:54:31	+bbbunni	hmmmm
+2024-09-24 19:54:50	+Anselm	guacamole and fajitas
+2024-09-24 19:54:52	+camazotz	How about a mouthfull of cock?
+2024-09-24 19:55:05	+camazotz	That was rude but you might have chuckled a bit. Hope so.
+2024-09-24 19:55:26	@roygbiv	it takes me 10 minutes to each lunch
+2024-09-24 19:55:38	@roygbiv	i only clock out for 10 minutes for my break
+2024-09-24 19:56:29	+Anselm	https://www.youtube.com/watch?v=8LhkyyCvUHk
+2024-09-24 19:56:29	@phaedra	[YouTube] ⁨Shocking Blue - Venus (Video)⁩ | 3m 4s | Channel: ⁨Red Bullet⁩ | 127,992,151 views | 2011-03-04 - 16:11:46 UTC
+2024-09-24 19:57:09	@roygbiv	i just realized i got full time hours
+2024-09-24 19:57:10	+incog	we also get that prop over here, it used to be a trend for the red top papers to be "immigrants are killing and eating swans"
+2024-09-24 19:57:15	@roygbiv	i calculated the hours
+2024-09-24 19:57:22	+incog	as swans are protected animals here and technically all owned by the crown
+2024-09-24 19:57:41	+Anselm	first dutch band with a hit in the USA
+2024-09-24 19:57:52	 *	Death_Syn hugs
+2024-09-24 19:58:08	+Anselm	she sure had the hair
+2024-09-24 19:58:28	@xartet	we used to have too many geese shitting all over the park here. couldn't sit anywhere on the ground that wasnt covered in goose shit. so the city started culling them and sending the carcasses to food shelters.
+2024-09-24 19:58:47	@xartet	apparently. i dont know if any homeless people were ever actually served goose.
+2024-09-24 19:58:58	+Anselm	in mississauga ontario they were giving excess geese to welfare families for Thanksgiving
+2024-09-24 19:59:04	+ort	Didn’t Golden Earring get a hit there
+2024-09-24 19:59:06	@xartet	they would also fly into traffic
+2024-09-24 19:59:14	+Anselm	way after Venus
+2024-09-24 19:59:20	+incog	ive eaten goose before but its very illegal to kill a swan here
+2024-09-24 19:59:48	+Anselm	I think you can get the death penalty for killing a swan in the uk
+2024-09-24 19:59:48	+ort	Okay
+2024-09-24 20:00:16	+incog	its a very old law too
+2024-09-24 20:00:20	+incog	from the 12th century
+2024-09-24 20:00:43	@jogmaster	Wordle 1,193 5/6
+2024-09-24 20:00:43	@jogmaster	⬛⬛🟨⬛⬛
+2024-09-24 20:00:43	@jogmaster	⬛🟨⬛⬛⬛
+2024-09-24 20:00:43	@jogmaster	⬛⬛🟨⬛🟨
+2024-09-24 20:00:43	@jogmaster	⬛🟩⬛⬛🟨
+2024-09-24 20:00:43	@jogmaster	🟩🟩🟩🟩🟩
+2024-09-24 20:00:59	+Anselm	the uk needs to draw up a criminal code like peel wanted.
+2024-09-24 20:01:22	+incog	killing a swan is either an unlimited fine or 6mo in jail
+2024-09-24 20:01:29	@jogmaster	Canadian geese were protected by some statute
+2024-09-24 20:01:29	+Anselm	get rid of all these silly ancient laws
+2024-09-24 20:02:03	+tsarmabob	1:39 PM <+incog> it was a crazy black american in ohio
+2024-09-24 20:02:03	+tsarmabob	people are only *now* figuring out that, when chudfarts say "haitian" or "african" or "immigrant" or any number of other things, they mean "non-white"
+2024-09-24 20:02:13	<--	roygbiv (uid432317@id-432317.helmsley.irccloud.com) has quit
+2024-09-24 20:02:21	+tsarmabob	i guess better (real) late than never
+2024-09-24 20:02:50	+incog	it used to be classed as outright treason to eat a swan, but that was changed as late as 1998
+2024-09-24 20:03:02	+incog	as they are owned by the crown
+2024-09-24 20:03:56	+incog	kinda like how china owns all pandas
+2024-09-24 20:04:01	+Anselm	any decree which is for the personal enrichment of the monarch should be seriously reviewed.
+2024-09-24 20:04:39	+tsarmabob	https://www.thedailybeast.com/lindsey-graham-howls-that-media-shows-trumps-links-to-black-nazi-mark-robinson
+2024-09-24 20:04:39	@phaedra	[url] Lindsey Graham Howls That Media Shows Trump’s Links to ‘Black Nazi’ Mark Robinson | www.thedailybeast.com ( https://tinyurl.com/2yn443xh )
+2024-09-24 20:04:47	+incog	if a panda is born in america, in captivity in a zoo, it still belongs to china
+2024-09-24 20:06:29	+incog	so when our red tops want to make ragebait up, they'll say some sudanese migrants killed and ate a swan
+2024-09-24 20:07:16	+Anselm	in england they call supermarket checkout trash like the National Enquirer "newspapers"
+2024-09-24 20:08:00	+Anselm	"OMG her tits are getting saggy!"
+2024-09-24 20:09:11	+Anselm	Exclusive beach pictures of Whacky Scandinavian Princess with her ouija board!
+2024-09-24 20:09:28	+incog	the most shared red top front pages i see posted as prop internationally are the rape gang ones, which all use mugshots of the charged and jailed rape gangs while claiming they are still at large
+2024-09-24 20:09:45	+incog	where did the mugshots come from deary?
+2024-09-24 20:09:58	+Anselm	revolving door justice
+2024-09-24 20:10:02	+Anselm	that is an easy one
+2024-09-24 20:10:08	+Anselm	catch and release
+2024-09-24 20:10:18	+incog	no, its just a disconnect between emotion and reality
+2024-09-24 20:10:21	+tsarmabob	it's weird, because there are rape gangs *all over* india but they seem to be ok with the right because they tend to support modi wholeheartedly
+2024-09-24 20:10:53	Timur	tsarmabob: their own lil 4chan.
+2024-09-24 20:11:06	+Anselm	it is a much bigger crime to complain about rape gangs than to be in a rape gang
+2024-09-24 20:11:14	+incog	incorrect
+2024-09-24 20:11:36	+incog	that is the perception the propaganda is aiming for
+2024-09-24 20:11:45	+tsarmabob	https://www.npr.org/2024/09/23/nx-s1-5123961/nebraska-electoral-college
+2024-09-24 20:11:45	@phaedra	[url] Nebraska Republican state senator says he won't support electoral college change : NPR | www.npr.org ( https://tinyurl.com/2xhubvde )
+2024-09-24 20:11:53	-->	resident- (~erasmus@syn-173-095-165-021.res.spectrum.com) has joined #philosophy
+2024-09-24 20:11:54	+tsarmabob	when you lose nebraska
+2024-09-24 20:12:14	+tsarmabob	they're burning political capital on states like nebraska now which tells me they've given up on real swings tates
+2024-09-24 20:12:40	+incog	the reality is, that when you show a bunch of pakis as criminals on the papers, it makes people want to go paki bashing and as they look similar, innocents get bashed, to reduce this risk of innocent pakis being bashed the news is purposefully supressed
+2024-09-24 20:12:53	+incog	you saw what happened when a fake name of a paki was released as a child killer
+2024-09-24 20:14:18	+tsarmabob	you don't even need to go back that far. palestinian-american child, born here in the US, murdered by a dumbfuck foxbot redneck because of radicalization
+2024-09-24 20:14:19	+incog	so the act of trying to protect innocents is bent into "uk police is protecting gang rapists"
+2024-09-24 20:14:29	+tsarmabob	but when it's a dumbfuck foxbot white boy who gets radicalized, somehow that's "different"
+2024-09-24 20:14:47	+camazotz	Has there ever been a peoples who hated themselves as much as white people do?
+2024-09-24 20:14:49	+camazotz	I can't think of one.
+2024-09-24 20:15:23	+tsarmabob	white people LOVE being white. it's fucking hilarious
+2024-09-24 20:15:28	+incog	^
+2024-09-24 20:15:30	+tsarmabob	they take such pride in something they had fuckall to do with
+2024-09-24 20:15:34	+camazotz	They also love hating white people.
+2024-09-24 20:15:37	+camazotz	It's kinda crazy
+2024-09-24 20:15:43	+camazotz	They get to eat their cake and hate it, too.
+2024-09-24 20:15:51	+tsarmabob	"i was born white and i'm proud of that." taking credit for the lowest-effort thing in anyone's life ever
+2024-09-24 20:15:58	+tsarmabob	it's hilarious
+2024-09-24 20:15:59	+incog	camazotz, if whites loved hating white people most we wouldnt have rampant racism, you are talking out of your anus
+2024-09-24 20:16:12	+camazotz	Um, racism is directed _towards_ whites.
+2024-09-24 20:16:16	+tsarmabob	maybe caucasoids just like hating, full stop
+2024-09-24 20:16:29	+camazotz	tsarmabob: that's something I can get behind.
+2024-09-24 20:16:36	+camazotz	Slavs and that whole area were full of hate.
+2024-09-24 20:16:43	+incog	camazotz, if i call you a dumbfuck cracker, as a white person, am i being racist
+2024-09-24 20:16:49	+camazotz	Hell they couldn't stop fighting and ended up being enslaved by the middle east because of it.
+2024-09-24 20:17:24	resident-	Offering unsolicited sympathy toward white people will secure you a more prominent spot behind their cult leaders at televised events.
+2024-09-24 20:17:40	+camazotz	^ truth
+2024-09-24 20:17:56	+incog	thats not a good thing camazotz
+2024-09-24 20:18:18	+incog	you are engaging in a self own
+2024-09-24 20:19:22	+tsarmabob	https://www.independent.co.uk/news/world/americas/us-politics/trump-supreme-court-jail-rally-b2618050.html
+2024-09-24 20:19:22	@phaedra	[url] Trump ignores the First Amendment and says those who criticize the Supreme Court should be tossed in jail | The Independent | www.independent.co.uk ( https://tinyurl.com/279r7u5v )
+2024-09-24 20:19:54	+tsarmabob	i wonder if that applies to when he (trump) shit all over amy coney barrett earlier this year
+2024-09-24 20:22:10	+incog	the countries with the highest immigration rates are clearly the most desirable places on earth, you dont run into a burning building to live there, the fringe weirdos invert this and yell "the west is falling"
+2024-09-24 20:22:24	+Death_Syn	tsarmabob: he's a former president, the law doesn't apply to him as the court has asserted
+2024-09-24 20:23:33	+incog	when you inspect the "the west is falling" crap from both the fringe right and the fringe left and ask cui bono, you are left with where it originated from
+2024-09-24 20:25:25	+incog	its all astroturfing with loud idiots amplifying it on behalf of those in the east demanding multipolarity
+2024-09-24 20:26:44	+Anselm	immigration has reached its political limit
+2024-09-24 20:27:02	+Anselm	people don't want any more immigration
+2024-09-24 20:27:06	+incog	if you cant raise yourself up, you must bring your competition down, then you gain a sembelence of looking peer
+2024-09-24 20:27:43	+ort	Politicians will gladly tell you what the people want
+2024-09-24 20:27:50	resident-	I'd like a bit more immigration.  
+2024-09-24 20:27:57	+incog	that is their job ort, to win popularity contests
+2024-09-24 20:28:15	+Anselm	if you can find houses and jobs for them go ahead.
+2024-09-24 20:29:00	resident-	Jobs, sure.  Houses are fantasy to all but the elderly.
+2024-09-24 20:29:26	resident-	Hammocks in trees.  It's all good.
+2024-09-24 20:29:38	+incog	are we going to pretend the earth has run out of land and building materials?
+2024-09-24 20:29:57	+ort	Nations have been built on the work of immigrants.
+2024-09-24 20:29:57	+incog	what a silly notion
+2024-09-24 20:30:11	resident-	Maybe even this one.  But hey.
+2024-09-24 20:30:23	+ort	And most refugees and immigrants show up here because of the shit we created in their countries
+2024-09-24 20:30:34	+incog	no ort
+2024-09-24 20:31:03	+incog	the west isnt behind the global south being shit, do you think we air dropped all those mosquitos into the tropics?
+2024-09-24 20:32:20	+bbbunni	https://usercontent.irccloud-cdn.com/file/PXqz3S9D/1000000925.gif
+2024-09-24 20:33:33	+tsarmabob	if there's one thing western powers have not fucked with, it's centra/south america
+2024-09-24 20:34:13	+tsarmabob	siri, tell me all about how pax americana saved the planet
+2024-09-24 20:37:08	+bbbunni	https://usercontent.irccloud-cdn.com/file/N8cKIDG9/1000000042.jpg
+2024-09-24 20:38:33	+incog	do you think the uncontacted tribes of the amazon are still lagging 2 thousand years behind due to the west (who has had zero contact with them)
+2024-09-24 20:40:37	+buff3r	https://youtu.be/izGwDsrQ1eQ?si=WSb3a7LXFrh3d4gJ
+2024-09-24 20:40:37	@phaedra	[YouTube] ⁨George Michael - Careless Whisper (Official Video)⁩ | 5m 1s | Channel: ⁨georgemichaelVEVO⁩ | 1,286,515,203 views | 2009-10-25 - 21:05:50 UTC
+2024-09-24 20:40:40	+howto	Whisperless Care
+2024-09-24 20:40:42	+incog	do you think the north sentinel island sucking shit is because of the west (who has had extremely minimal contact with them)
+2024-09-24 20:41:02	-->	gay4pay (~louskunt@198.244.126.86) has joined #philosophy
+2024-09-24 20:42:05	+incog	its not as simple as the rest of the world is behind because we fucked them over, that is a fantasy
+2024-09-24 20:42:41	+buff3r	life might be very different for the north sentinelese if they were introduced to george michael
+2024-09-24 20:42:50	+incog	lol
+2024-09-24 20:46:15	+buff3r	theyd lose their minds
+2024-09-24 20:46:33	+incog	if you inspect the "west is the reason everywhere esle sucks" with any vigor, you come to the realization that they were already thousands of years behind before contact
+2024-09-24 20:47:02	+agentmx_	Anyone here taking soup construction to a professional level?
+2024-09-24 20:47:05	+howto	Nope.
+2024-09-24 20:48:03	+incog	and the head start the west has, couldnt have been from exploitating those not contacted yet
+2024-09-24 20:49:10	+incog	they were exploited after the were contacted and noticed they were so far behind they couldnt organize any resistance back
+2024-09-24 20:49:24	+incog	basic causality
+2024-09-24 20:49:41	+incog	the effect doesnt come before the action
+2024-09-24 20:50:26	+MINNIE18	I'm liking this new Mimmie better than #philo mimmie
+2024-09-24 20:50:57	+MINNIE18	She's still posting pics daily. But no firmament no preaching no crazy talk. 
+2024-09-24 20:54:06	+agentmx_	long game worked
+2024-09-24 20:55:49	+agentmx_	hasnt changed that much, still deluded >> Mimmie> Everyone here loves me despite my beliefs.
+2024-09-24 20:56:31	+agentmx_	none of those people had heard of her 4 days ago now everyone loves her
+2024-09-24 20:59:52	+Death_Syn	wait, it's a different Mimmie?
+2024-09-24 21:00:01	+Death_Syn	or just an evolved one?
+2024-09-24 21:05:53	+MINNIE18	Its the same mimmie but she left here supposedly
+2024-09-24 21:06:08	+MINNIE18	She has a client here I think. She's saying she saw stuff posted in here
+2024-09-24 21:06:26	+MINNIE18	She's being normal. 
+2024-09-24 21:06:35	+agentmx_	she swam to cuba so is on mobile
+2024-09-24 21:08:56	+MINNIE18	I tried to compliment her and say I like this new mimmie and she got triggered
+2024-09-24 21:09:43	+agentmx_	low self esteem
+2024-09-24 21:09:57	<--	Jordan (~JEAN_ROYG@bras-base-rbvlpq2717w-grc-23-69-156-68-47.dsl.bell.ca) has quit (Read error: Operation timed out)
+2024-09-24 21:17:58	+MINNIE18	Just hostile af. 
+2024-09-24 21:18:37	+MINNIE18	Very non-Christian 
+2024-09-24 21:18:46	@xartet	mary mary
+2024-09-24 21:18:48	@xartet	why u buggin
+2024-09-24 21:25:15	@xartet	i checked the log in #political
+2024-09-24 21:25:18	@xartet	she's on the prowl
+2024-09-24 21:28:53	+incog	Iran ready to resume nuclear negotiations immediately
+2024-09-24 21:28:56	+incog	bahahahaha
+2024-09-24 21:29:02	+incog	iran folds
+2024-09-24 21:29:05	+space	yeah
+2024-09-24 21:29:09	+space	bring them in dude
+2024-09-24 21:29:26	+incog	https://pbs.twimg.com/media/GYN6HEAX0AEENc6?format=jpg&name=small
+2024-09-24 21:29:58	+incog	blowing the cocks off their intel agents with pagers was clearly the winning action
+2024-09-24 21:30:30	+space	well i mean, theyre surrounded by nuclear powers and we're targeting them with ours.
+2024-09-24 21:30:34	+agentmx_	message is ...never answer the pager with your dick
+2024-09-24 21:30:53	+space	if i were in jump range of CFC titans i would'nt trust local to not have a logoff trap.
+2024-09-24 21:31:46	+space	seen way too many dunk memes and videos for that shit
+2024-09-24 21:34:24	-->	Sora (uid183394@id-183394.uxbridge.irccloud.com) has joined #philosophy
+2024-09-24 21:37:12	+incog	russias greatest move in this multifaced war was to convince iran to make hamas launch a terror attack as a global distraction and to dilute funding, now iran is humbled
+2024-09-24 21:37:28	+incog	russia will lose
+2024-09-24 21:37:38	+incog	and sooner than expected
+2024-09-24 21:38:52	Sora	Russia won't lose and they'll keep the land they've taken but they will lose some amount of resources/men
+2024-09-24 21:39:02	+incog	the will absolutely lose
+2024-09-24 21:39:06	+incog	+y
+2024-09-24 21:39:20	Sora	Ukrainians are being fed into the blender right now. Dying 10 to 1 Russian
+2024-09-24 21:39:28	+incog	lol what
+2024-09-24 21:39:48	+incog	its a 14:1 attrition ratio against russia, do you want the visual loss data?
+2024-09-24 21:40:10	Sora	Men are trying to flee the country and they're being imprisoned, killed, and forced into service
+2024-09-24 21:41:05	+incog	odd, because we see that far more with russia, you know, fucking penal units
+2024-09-24 21:41:31	Sora	Zelensky already signed over Ukrainian farm land to the world banks. Russia took a large amount of their land. Both sides are pilfering the country
+2024-09-24 21:41:40	+incog	ah, you're one of those retards
+2024-09-24 21:42:03	+ort	He sure is. Completely in denial of reality
+2024-09-24 21:42:05	resident-	Things couldn't be going better for Russia.  
+2024-09-24 21:42:16	Sora	Keep waving that flag around. You might create a tornado to help them if you try hard enough
+2024-09-24 21:42:30	+incog	iTs dA bAnKeRs
+2024-09-24 21:42:36	+ort	If the US attacked UA it would be all over in a couple of weeks
+2024-09-24 21:42:42	+incog	into the trash you go
+2024-09-24 21:42:48	resident-	It's like that time the U.S. got their ass handed to them by Liechtenstein.  
+2024-09-24 21:42:48	+ort	Russia is an embarrassment
+2024-09-24 21:42:50	+howto	Their ass-handed.
+2024-09-24 21:43:42	Sora	Look into it if you're not afraid
+2024-09-24 21:43:48	-->	Mimmie (sid667029@id-667029.lymington.irccloud.com) has joined #philosophy
+2024-09-24 21:43:52	Sora	They've given up 42million hectacres
+2024-09-24 21:43:57	Sora	Half the country's farm land
+2024-09-24 21:44:13	+incog	ive been watching the war from the very start, ive heard all the propaganda bullshit
+2024-09-24 21:44:44	Sora	There are no "good guys" in war
+2024-09-24 21:44:49	+incog	shut up retard
+2024-09-24 21:44:55	Sora	Lol
+2024-09-24 21:45:08	+incog	muddying the waters doesnt change whom invaded whom
+2024-09-24 21:45:14	Mimmie	MINNIE18: I haven't been in this channel. Someone just saw you being a snake and showed me.
+2024-09-24 21:45:27	Mimmie	Do I really seem like the lurking type. lol
+2024-09-24 21:45:30	--	Mode #philosophy [+l 119] by dudley
+2024-09-24 21:45:31	Sora	Delusional virtue signalling isn't going to save them
+2024-09-24 21:45:50	+ort	These Russian trolls think there propaganda actually changes reality
+2024-09-24 21:45:50	resident-	Sorry, Sora, your time is up.  Catfight in progress.
+2024-09-24 21:45:56	+ort	Complete denial
+2024-09-24 21:46:16	Sora	Aww, okay. 🍿
+2024-09-24 21:46:29	+incog	everybody virtue signals, its part of communication, you recite the same old tired stale shit while also flagging up the virtue you are a "free thinker" despite repeating direct russian prop
+2024-09-24 21:46:57	<--	Mimmie (sid667029@id-667029.lymington.irccloud.com) has left #philosophy
+2024-09-24 21:47:14	+agentmx_	a bold statement!
+2024-09-24 21:48:05	+incog	you wouldnt need to be an unpaid info warrior on behalf of russia if they were doing well, you would be completely surplus to requirements
+2024-09-24 21:48:21	Sora	Been saying it for years. Russia defended itself by attacking Ukraine to keep it out of Nato. The same thing the Us would do if Mexico allowed Russia/China to setup weapons on our border
+2024-09-24 21:48:26	+incog	hahahahahaha
+2024-09-24 21:48:27	resident-	The women of EFNet #philosophy can't stand each other.  Except in prayer.
+2024-09-24 21:48:28	+incog	ahahahahahahhahaha
+2024-09-24 21:48:50	Sora	It doesn't take any love for Russia to see the logic in strategical positioning
+2024-09-24 21:48:54	+incog	he's doing the nato expansion meme
+2024-09-24 21:48:55	+incog	hahahahahahaha
+2024-09-24 21:49:05	+ort	Someone never heard of the Cuba crisis
+2024-09-24 21:49:30	Sora	Look at Cuba now
+2024-09-24 21:49:37	+agentmx_	the cuban triathalon
+2024-09-24 21:50:01	+incog	you gonna tell me about the petrodollar next? maybe how unfair it is that there is a liberal based world rules order and not dictorial multipolarity?
+2024-09-24 21:50:15	+ort	No need to contradict yourself
+2024-09-24 21:50:15	+MINNIE18	Lol
+2024-09-24 21:50:21	resident-	Relations had been begrudgingly normalized with Russia.  Post-Cold War sheen of kumbaya ridiculousness (read: the U.S. looking the other way as the oligarch class re-entrenched itself).  
+2024-09-24 21:50:35	+MINNIE18	So someone is being a little bitch ass instigator
+2024-09-24 21:50:41	+MINNIE18	Hahahahaha
+2024-09-24 21:50:43	resident-	The U.S. was no imminent threat to Russia such that Russia had to re-invade a post-USSR Ukraine.  Fucking twice.  
+2024-09-24 21:51:23	+agentmx_	probably selmy on his white shetland pony
+2024-09-24 21:51:40	+space	Russia is gay, they don't even like lesbo girl-on-girl shit
+2024-09-24 21:51:43	+space	theyre faggots
+2024-09-24 21:51:44	resident-	Whatever allowance you give for bad actors and right wingers in Ukraine, there's no universe where Russia was in danger until Puti Tang got his Caesar on.
+2024-09-24 21:51:59	+ort	And posting troops at the border is no longer a necessity for any modern power
+2024-09-24 21:52:14	Sora	How far is Moscow from the Ukrainian border?
+2024-09-24 21:52:34	+incog	he's gonna pretend that belarus didnt accidently leak the post-ukranian invasion plans of moldova
+2024-09-24 21:52:36	+howto	The grotesque monster-boy avoids the issues! just what does he plan on doing about the size of maya's giant head? If I am elected, maya's head will be removed, and filled with salted nuts!
+2024-09-24 21:52:46	Sora	How much distance is required for missile defense systems to defend against high speed missiles?
+2024-09-24 21:53:00	-->	seguesan (~seguesan@45.132.159.103) has joined #philosophy
+2024-09-24 21:53:02	+incog	sora, nuclear powers dont need buffer zones
+2024-09-24 21:53:07	+incog	that is what the nukes are for
+2024-09-24 21:53:12	+incog	you are very very stupid
+2024-09-24 21:53:33	Sora	Good argument. Throw out logic and virtue signal
+2024-09-24 21:53:42	+space	um, it doesnt really matter since the plan for when someone launches a nuke is to automatically launch every nuke at EVERYTHING, all the while shouting: OH MY GOD! OH MY GOD! OH MY GOD! OH MY GOD!
+2024-09-24 21:53:44	Sora	How far?
+2024-09-24 21:53:44	+ort	Only Russia allows itself to be invaded by that clown prigozhin
+2024-09-24 21:53:50	+incog	there is no logic in you repeating defeated propaganda
+2024-09-24 21:53:57	+ort	That was some shameful shit
+2024-09-24 21:54:15	Sora	Either way, Russia is winning against Ukraine
+2024-09-24 21:54:29	resident-	"Missiles exist" isn't quite the defense for horrorshow behavior in 2024 that you think it is.
+2024-09-24 21:54:40	Sora	The west will take what it can get and russia will as well
+2024-09-24 21:54:48	+space	also, the best defense is an aerial burt nuclear defense system, which is to say, we're gonna nuke the nukes over us (some will nuke us still) while nuking EVERYTHING all the while screamiong: OH MY GOD!
+2024-09-24 21:54:55	+incog	i want you to come back here and talk to me when russia loses, i dont want any of the "i was just trolling" excuses
+2024-09-24 21:54:57	Sora	Zelensky will grind up his citizens and do what he will
+2024-09-24 21:55:11	+ort	Where is the Russian airforce btw ? 3 years in and still no air superiority. Fuckin clowns
+2024-09-24 21:55:11	resident-	Well, you're almost right about one thing.
+2024-09-24 21:55:26	resident-	Russia indeed *should* have won in a matter of days.  As they bragged they would.
+2024-09-24 21:55:30	 *	seguesan . o O ( https://www.youtube.com/watch?v=wHylQRVN2Qs
+2024-09-24 21:55:30	@phaedra	[YouTube] ⁨Sting - Russians⁩ | 3m 55s | Channel: ⁨StingVEVO⁩ | 35,944,392 views | 2010-04-16 - 22:57:05 UTC
+2024-09-24 21:55:33	resident-	Oh well!
+2024-09-24 21:55:37	+space	and then, russia will have the final say when their automatic nuclear retaliatory strike aka Dead Hand goes off, nuking everything with garbage 1950s soviet shit that barely targets, but they will still be screaming: OH MY GOD! OH MY GOD!
+2024-09-24 21:55:42	+howto	and then a bear came
+2024-09-24 21:55:57	seguesan	Sting knew all the way back in the 80s
+2024-09-24 21:56:31	+space	the bear was a nuke as well.
+2024-09-24 21:56:45	+space	It mauls you AND nukes you, all while shooting bees out of its mouth!
+2024-09-24 21:57:05	resident-	That this is even a contest years later, and that they're being counter-raped on their own soil into population centers, is a testament to how formidable and awesome they aren't.
+2024-09-24 21:57:05	+incog	sora, this is the visual loss data, geolocated, filmed and photographed, undenialable: https://ukr.warspotting.net/
+2024-09-24 21:57:06	@phaedra	[url] Losses ∙ Russia ∙ WarSpotting — documented material losses in Russo-Ukrainian war | ukr.warspotting.net ( https://tinyurl.com/2cer7qfv )
+2024-09-24 21:57:31	+incog	no propaganda can undo it
+2024-09-24 21:57:46	seguesan	Sting == PutinStooge
+2024-09-24 21:57:51	Sora	Let's see what happens when Ukraine directly attacks Russia with Us weapons, resident-
+2024-09-24 21:57:58	Sora	That's when it'll get really interesting
+2024-09-24 21:58:01	resident-	You missed the point.
+2024-09-24 21:58:10	resident-	Why is it still going on.  Why was it ever even close.
+2024-09-24 21:58:11	+incog	you mean all those red lines where nothing has happened prior?
+2024-09-24 21:58:20	resident-	How did it ever get to this point.  
+2024-09-24 21:58:22	+incog	russia is weak and pathetic, toothless
+2024-09-24 21:58:38	resident-	How is it Ukraine wasn't smashed in a matter of hours.
+2024-09-24 21:58:50	+MINNIE18	Why do women get so touchy against other women? 
+2024-09-24 21:59:01	seguesan	what's your theory on that res
+2024-09-24 21:59:11	resident-	MINNIE18: Are you asking unironically.
+2024-09-24 21:59:15	+space	OH MY GOD! they'll shout, while nuking, OH MY GOD!
+2024-09-24 21:59:16	+MINNIE18	Why do honest interactions become catfights
+2024-09-24 21:59:17	Sora	It got to this point because Biden is a Puppet-President with dimentia/has been awol for most of his term
+2024-09-24 21:59:30	+incog	a puppet of whom?
+2024-09-24 21:59:31	seguesan	Sora knowz
+2024-09-24 21:59:40	resident-	*blink*
+2024-09-24 21:59:40	+space	awol?
+2024-09-24 21:59:40	+agentmx_	er,,,because mimmie is a turd
+2024-09-24 21:59:41	+ort	Fighting for e-peen is the way of the world
+2024-09-24 21:59:43	+space	we got chips act bruh
+2024-09-24 21:59:44	+space	broseph
+2024-09-24 21:59:46	+space	broheim
+2024-09-24 21:59:53	+space	brosopholous
+2024-09-24 21:59:54	+space	brosky
+2024-09-24 22:00:06	+incog	who in your delusion do you think is holding those strings, sora
+2024-09-24 22:00:08	Sora	Who is making decisions? The man can barely speak. He wore a fkn Trump hat
+2024-09-24 22:00:13	+space	we got chipsm act dude
+2024-09-24 22:00:28	+space	hey snap out of it. Biden made it so now we make iPhone SoC in america, not china. we win.
+2024-09-24 22:00:31	+space	usa win.
+2024-09-24 22:00:33	resident-	How is an AWOL American president, if we allow for that weird answer, possibly responsible for Ukraine's overachievement.
+2024-09-24 22:00:50	seguesan	Sora: next he'll be wearing a Russian soldier's helmet
+2024-09-24 22:01:12	Sora	Money/resources/continuation of war/lack of mediation
+2024-09-24 22:01:26	+ort	Sora is the kind of guy to say stupid shit and double down on it no matter what
+2024-09-24 22:01:26	+incog	im still waiting on who you think its the puppet master
+2024-09-24 22:01:31	+ort	Gotta respect that
+2024-09-24 22:01:36	resident-	The first few days did not have international intervention.
+2024-09-24 22:01:56	+incog	-t
+2024-09-24 22:02:07	Sora	Mitch Mcconnel directly said that money is being funneled into defense contractors and isn't going to Ukraine
+2024-09-24 22:02:09	Sora	Someone is clearly profiteering off the war and Biden's senile ass isn't running the country
+2024-09-24 22:02:11	+howto	senile ass-isn
+2024-09-24 22:02:12	resident-	Do you forget the constant whining for delayed weapons and monies from the west, and not just the U.S.  
+2024-09-24 22:02:16	+incog	sora, who
+2024-09-24 22:02:37	seguesan	any-1 here ready to go fite & die in Ukraine so their kids can have the right to throw fellow Ukrainianz in jail for pronoun infractions
+2024-09-24 22:02:42	+space	they get 100 f16 iirc
+2024-09-24 22:02:46	+space	thats sick
+2024-09-24 22:02:46	Sora	Do you know who? It's clearly not Joe Biden
+2024-09-24 22:02:50	+space	they get himar, also sick.
+2024-09-24 22:03:02	+incog	sora, you made a claim, i want you to follow up
+2024-09-24 22:03:04	+space	we fly awacs in nato country. nato good. see faaaaar
+2024-09-24 22:03:12	resident-	Sora: So you're saying Ukraine isn't getting the assets because Biden R Dumb.  Okay, cool.  That would seem to indicate Ukraine would be weaker still.  And yet.
+2024-09-24 22:03:43	Sora	Incorrect, resident-. I'm saying they got assets and the war continued because of our weak leader
+2024-09-24 22:03:46	-->	rkorandy (~kvirc@71.214.176.44) has joined #philosophy
+2024-09-24 22:03:53	+space	Ukraine kick out fruitcake who try to kill orange banana man. banana.
+2024-09-24 22:03:56	Sora	A multitude of profiteering
+2024-09-24 22:04:12	resident-	You just said it wasn't from the U.S., and that it wasn't going into the Ukraine.
+2024-09-24 22:04:26	+incog	ah, so putin was made to invade ukraine to beef up the american military industry? 
+2024-09-24 22:04:29	+howto	Nothing can stop howto... nothing! not even this army of zombies!
+2024-09-24 22:04:29	+Death_Syn	The cognitive dissonance is strong today
+2024-09-24 22:04:35	+incog	for real
+2024-09-24 22:04:37	Sora	Yes, most of that money is going into defense contractors
+2024-09-24 22:04:37	resident-	And by the way, there is a hint of truth on the other side of this.  The vast majority of weaponry does NOT come from the U.S.
+2024-09-24 22:04:50	+space	did the himars?
+2024-09-24 22:04:50	+incog	sora, that would make putin the puppet, not biden
+2024-09-24 22:04:57	seguesan	Imagine there's this demented old coot sitting outside a restaurant controlled by the most dangerous mafia group in the city. The coot purports to run the restaurant but really he's just an old d00d they like to keep around. Are you gonna fuq with that old guy? It's the same situation here with America and Joe Biden.
+2024-09-24 22:05:16	resident-	Sora.  If the money isn't going into Ukraine, how is that helping Ukraine not get buttfucked triple-time by Russia.
+2024-09-24 22:05:43	Sora	They get what they need and those who want to profit do so. It's not confusing
+2024-09-24 22:05:49	resident-	Okay, Biden's an idiot.  Okay, defense contractors get rich as they absolutely always have.  Sure.  But if Ukraine ain't getting the goods, how does THAT explain Ukraine holding off Russia.
+2024-09-24 22:05:56	+space	if you dont like old dumb-dumbs running the show why might you contemplate voting for the older (oldest) dumb-dumb (dumbest) reatrd running for a President?
+2024-09-24 22:06:38	+space	i meant to type retread. hes like a retread: unusable.
+2024-09-24 22:06:46	+incog	sora, putin invaded ukraine after illegally annexing crimea previously, do you think he did this so the american military industry complex would get more money
+2024-09-24 22:06:48	-->	aborazmeh (~aborazmeh@88.243.128.136) has joined #philosophy
+2024-09-24 22:06:51	Sora	Yep, seguesan. The group can do what they want and use tax funds for themselves with no governance by the old guy
+2024-09-24 22:07:00	+space	wait
+2024-09-24 22:07:02	+Roanoke	Da box has landed. I can go to bed now. Ciao.
+2024-09-24 22:07:05	+space	doesnt congress control the purse?
+2024-09-24 22:07:11	resident-	You just said Ukraine ain't getting anything from the U.S. because of the sitting President's ineptitude.  That's fine.  That's a net loss for Ukraine, per your logic.  In theory, they need every extra advantage for their Rhode Island ass to hold off the majority of the rest of that continent.  And yet.
+2024-09-24 22:07:14	+space	ipso facto, wouldnt your republican congress be at fault for this?
+2024-09-24 22:07:14	+howto	Island ass-to
+2024-09-24 22:07:20	<--	Roanoke (~Roanoke@69-82.cablevision.qc.ca) has quit (zzzzzzzz)
+2024-09-24 22:07:28	seguesan	Sora: and now the mafia wants to sit a imbecilic 304 out there to take the coot's place. 
+2024-09-24 22:07:45	Sora	More money laundering
+2024-09-24 22:07:47	resident-	Imagine being so lost in cult-dom that you talk yourself into corners like this.  Hand me the keys, and I could assume your role and talk your way out of this.
+2024-09-24 22:07:53	seguesan	rite on
+2024-09-24 22:08:00	Sora	Meanwhile our cost of living keeps going up and wages remain stagnant
+2024-09-24 22:08:07	+space	it stands to reason that since the executive branceh including the President enacts the operationalize legal guidelines (aka "bills") that the conmgress passes, recalling our "I'm just a Bill" cartoon, wouldnt it stand to reason that what you said was wrong?
+2024-09-24 22:08:20	seguesan	Moar pronouns! Moar immigrantz! Moar inflation! Moar war! Don't vote against it or you're a bigot.
+2024-09-24 22:08:28	Sora	And at the same time, the country is flooded with illegals to populate states for future elections and take American jobs
+2024-09-24 22:08:28	resident-	And off to other grievances in the vague hope you might find better luck there.
+2024-09-24 22:08:29	+space	What law it that?
+2024-09-24 22:08:36	+incog	rage bait works on seguesan
+2024-09-24 22:08:38	+space	which law is flood illegal?
+2024-09-24 22:08:49	+space	i think it was the one republicans killed out of spite for America
+2024-09-24 22:09:08	resident-	Huddle up for warmth in the wintry storm, EFNet alt-right ditzes.
+2024-09-24 22:09:16	+space	they do be frantic
+2024-09-24 22:09:24	seguesan	thinking outside approved DNC talking points == "hate" "bigotry" and "alt-rightedness"
+2024-09-24 22:09:35	+space	it will be fine, they can bve roofers and have a job. we're gonna build 3 million houses next year.
+2024-09-24 22:09:41	+space	I heard china would pay, whatever
+2024-09-24 22:09:54	Sora	I didn't say that Ukraine wasn't getting anything, resident-. I said that most of the money is being laundered to defense contractors and that Ukraine is giving up their farm land and sending their soldiers to their deaths, forcefully
+2024-09-24 22:10:16	 *	seguesan . o O ( https://www.youtube.com/watch?v=jtXoHC9210s
+2024-09-24 22:10:16	@phaedra	[YouTube] ⁨Madness - Uncle Sam⁩ | 3m 19s | Channel: ⁨Madness⁩ | 1,065,922 views | 2008-11-24 - 16:54:59 UTC
+2024-09-24 22:10:16	+incog	seguesan, im a brit, the DNC has absolutely no sway with me, you are flailing your arms at shadows and foes you imagine
+2024-09-24 22:10:49	seguesan	Madness brings the song to the UK: "Let's go 2 War with our buddy Unkie Sam!"
+2024-09-24 22:10:53	Sora	All of this Pro-Ukraine non sense in the West is quite disturbing. Why do so many who have never been to the country, likely never showed any interest in it, suddenly care just because Russia attacked it?
+2024-09-24 22:10:54	+space	if the us population is 280million, and you increase the inelastic supply my 1 percent, what would macroeconomics deem this effect to be? Keep in mind your SAT vocabulary term such as: "Inelastic Demand"!
+2024-09-24 22:11:16	+incog	sora, turns out when you invade your neighbor with made up reasons, nobody likes you
+2024-09-24 22:11:20	Sora	They're not a Nato ally and they don't deserve our attention or our citizens going into poverty for their sake
+2024-09-24 22:11:30	seguesan	o/` Tomorrow I'll be watching "All The Queen's Men"
+2024-09-24 22:11:34	+incog	>why wont they just let them be wiped out
+2024-09-24 22:11:39	+incog	yeah, im not a coward lad
+2024-09-24 22:11:49	+incog	russia will lose
+2024-09-24 22:12:06	resident-	Russia got embarrassed and continues to get embarrassed.  One can acknowledge this without being in favor of war in that region, or indeed loving Ukraine.  Try to grasp this.
+2024-09-24 22:12:10	Sora	Russia will keep their land and much of the rest will be taken by the West
+2024-09-24 22:12:16	+space	eh they gettin a spanking. probably looking for a way out since Ukraine invaded Russia and took their backline for a while?
+2024-09-24 22:12:20	+space	wild.
+2024-09-24 22:12:30	+space	thats like, a good way to collapse as a Federation or Republic
+2024-09-24 22:12:41	seguesan	This video by Madness kind of lays it out there for the slow Brits: it's-way-cool-to-get-into-military-bullshit-with-our-Uncle-Sam
+2024-09-24 22:12:43	+space	Didnt rome fall due to vandal encroachment?
+2024-09-24 22:12:56	+space	or whatever, prob was some guy wearing a dress!
+2024-09-24 22:12:56	+incog	btw, all that alt-media trash you consume sora, guess whos bankrolling that
+2024-09-24 22:13:06	+incog	guess who is pissing into your willing ears
+2024-09-24 22:13:34	seguesan	Any-1 here want to hop out of the UK and into Biden's hip pocket?
+2024-09-24 22:13:41	resident-	Now having said that, who wouldn't feel sympathy for the underdog.  For the invaded party.  For whom one has to engage in hilarious mental gymnastics to paint as an aggressor because to resist a second post-USSR invasion and annexation is tantamount to inviting western missiles into the heart of Moscow.
+2024-09-24 22:14:35	seguesan	Here they come again -- hop scotching up to my door!
+2024-09-24 22:14:53	seguesan	#StandWithUkraine
+2024-09-24 22:16:28	Sora	I might feel somewhat bad for them if it wasn't for the flag wavers and retards shouting for a country they've never been to
+2024-09-24 22:16:48	+ort	I was in UA in 97
+2024-09-24 22:16:52	+ort	But nice try
+2024-09-24 22:17:02	resident-	The U.S. isn't in tatters.  Jerbs are not being lost to critters skittering across the southern border, nor to imaginary trillions being funneled into the defense of Ukraine.  This is not reality.  You haven't been duped, either, because you want this.
+2024-09-24 22:17:04	seguesan	Their Retard Media was even trying to recruit them as unpaid mercs in #Ukraine
+2024-09-24 22:17:15	Sora	It's like whites wearing black lives matter shirts. The sheer retardedness of it reduces the message
+2024-09-24 22:17:38	+incog	rage bait may work on you, it doesnt work on me
+2024-09-24 22:17:53	+agentmx_	wont someone think of the pets
+2024-09-24 22:17:56	+incog	the liberal rules based world order will prevail
+2024-09-24 22:18:22	Sora	They're eating the dogs, they're eating the cats, they're eating the pets, agentmx_ 🤣
+2024-09-24 22:18:34	seguesan	#TrannyWartimeWeCareALot https://www.youtube.com/watch?v=LQhX8PbNUWI
+2024-09-24 22:18:34	@phaedra	[YouTube] ⁨Faith No More - We Care a Lot (Official Music Video) [4K]⁩ | 4m 8s | Channel: ⁨UPROXX Indie Mixtape⁩ | 9,096,978 views | 2014-02-21 - 20:27:00 UTC
+2024-09-24 22:18:39	+incog	you'll believe anything as long as its not true
+2024-09-24 22:18:44	+agentmx_	its a ghetto smorgasboard
+2024-09-24 22:19:24	+buff3r	ayyy
+2024-09-24 22:19:56	Sora	The best part is that in two years I can find you again after Russia keeps their land and point it out. Just like everyone who denied Biden's dimentia
+2024-09-24 22:20:14	resident-	You, you actually think the word is spelled that way.
+2024-09-24 22:20:27	resident-	Huh.  Well then.
+2024-09-24 22:20:33	seguesan	The same people who said Biden was fine are the ones telling you Kamala is great.
+2024-09-24 22:20:39	+incog	it isn't their land, they wont keep it and when they lose you will simply tell me you were trolling the entire time and not just a contrarian retard
+2024-09-24 22:20:43	+buff3r	hes from another dimentia
+2024-09-24 22:20:48	seguesan	lulz
+2024-09-24 22:21:13	Sora	Lol
+2024-09-24 22:21:18	seguesan	What do we care about with Biden's war??? -=> https://youtu.be/LQhX8PbNUWI?t=144
+2024-09-24 22:21:18	@phaedra	[YouTube] ⁨Faith No More - We Care a Lot (Official Music Video) [4K]⁩ | 4m 8s | Channel: ⁨UPROXX Indie Mixtape⁩ | 9,096,993 views | 2014-02-21 - 20:27:00 UTC
+2024-09-24 22:21:25	+ort	Keeping their land while they can’t hold on to their own.
+2024-09-24 22:21:27	+ort	lol
+2024-09-24 22:22:11	rkorandy	hey seguesan
+2024-09-24 22:22:18	seguesan	o/` (We Care A Lot!) ... about the wars we're fighting; Gee that looks like fun!
+2024-09-24 22:22:19	resident-	Mocking Russia is not loving Ukraine.  Understanding the logistical limits of Biden's possible culpability in the Russia-Ukraine conflict is not the same as loving Biden, nor pretending he's about to win Quiz Bowl.
+2024-09-24 22:22:29	resident-	Can you grasp this.
+2024-09-24 22:22:38	rkorandy	seguesan all your friends are here
+2024-09-24 22:22:42	seguesan	rite on
+2024-09-24 22:23:04	Sora	Contrarian, perhaps. But only because so many people have been indoctrinated into the worship of a country they didn't know existed
+2024-09-24 22:23:04	rkorandy	seguesan we want to see you doing good
+2024-09-24 22:23:13	+incog	you'll believe anything as long as its not true
+2024-09-24 22:23:19	seguesan	that's really awesome breh
+2024-09-24 22:23:34	resident-	I think you're referring to your own party registrants.
+2024-09-24 22:23:35	seguesan	thx
+2024-09-24 22:24:05	seguesan	better go be better
+2024-09-24 22:24:05	Sora	I don't have a party, resident-
+2024-09-24 22:24:09	seguesan	laterz e-buttz
+2024-09-24 22:24:10	resident-	Oh, of course.
+2024-09-24 22:24:14	Sora	Not many Real Americans left
+2024-09-24 22:24:21	Sora	Later, seguesan
+2024-09-24 22:24:25	resident-	Independent thinker.  
+2024-09-24 22:24:25	+incog	you have convinced yourself that to be a "free thinker" you must always be in opposition to established fact, turns out the freedom to think also allows you to come to the same conclusion as the masses
+2024-09-24 22:24:25	<--	seguesan (~seguesan@45.132.159.103) has quit
+2024-09-24 22:24:37	resident-	Like RFK.
+2024-09-24 22:25:10	Sora	Freedom is coming to an end, incog. The Uk and Australia are jailing people for free speech. Coming to a state near you
+2024-09-24 22:25:26	+incog	excuse me?
+2024-09-24 22:25:54	Sora	Look into it
+2024-09-24 22:26:00	resident-	https://www.rollingstone.com/politics/politics-news/trump-supreme-court-people-who-criticize-jailed-1235110537/
+2024-09-24 22:26:00	@phaedra	[url] Trump Says People Criticizing Supreme Court Justices Should Be Jailed | www.rollingstone.com ( https://tinyurl.com/2bxur9sb )
+2024-09-24 22:26:00	+incog	you think the jailing of rioters who burnt some bins in impotent rage afer being fed a fake name of a child killer by channel3, a russian run media service on twitter is the end of freedom?
+2024-09-24 22:26:20	+agentmx_	im in au where are people being jailed for free speech?
+2024-09-24 22:26:21	+incog	i wonder who could be drip feeding you that bullshit
+2024-09-24 22:26:41	Sora	People are being jailed for social media posts, agentmx_
+2024-09-24 22:26:43	+incog	could it possibly be the same people who released the fake name?
+2024-09-24 22:26:49	+CoMBo	au is a penal colony
+2024-09-24 22:26:50	+agentmx_	oh are they?
+2024-09-24 22:27:04	+ort	A Russian shill defending free speech is just grand
+2024-09-24 22:27:05	+agentmx_	combo is a bit of a girl
+2024-09-24 22:27:19	+CoMBo	your dick doesn't work
+2024-09-24 22:27:24	+CoMBo	silence geezer
+2024-09-24 22:27:28	+agentmx_	ouch
+2024-09-24 22:27:32	+howto	Awww
+2024-09-24 22:27:34	+howto	*rubs agentmx_ better.*
+2024-09-24 22:27:52	+agentmx_	knock knock
+2024-09-24 22:27:53	+howto	agentmx_: Who's there?
+2024-09-24 22:27:57	+agentmx_	combo
+2024-09-24 22:28:01	+howto	Combo who?
+2024-09-24 22:28:05	+incog	CoMBo here to aid the contrarian speds, he'll slink back to his cowardice now he sees me here
+2024-09-24 22:28:11	+agentmx_	combination of fuskwit and dickwad
+2024-09-24 22:28:13	+howto	Lol.
+2024-09-24 22:28:23	resident-	Rude.
+2024-09-24 22:28:40	+CoMBo	only coward is u
+2024-09-24 22:28:42	+incog	cat got your tongue little CoMBo?
+2024-09-24 22:29:07	+CoMBo	desperate for interactions due to severe inceldom
+2024-09-24 22:29:28	+incog	you have always been an extremely poor troll, second hand in every thing you do
+2024-09-24 22:29:37	+CoMBo	that reminds me, i gotta book ticket to see new transformers in imax with wifey
+2024-09-24 22:29:46	+CoMBo	while u stare at your crt monitor 
+2024-09-24 22:29:56	+CoMBo	hoping for a ping
+2024-09-24 22:30:24	+DeepB|ue	Transformers One?
+2024-09-24 22:30:29	+CoMBo	ya
+2024-09-24 22:30:30	+incog	the cope of a bottom feeder, thinking the dusty slurs borrowed from 4chan will help him
+2024-09-24 22:30:47	+DeepB|ue	It's....not that great.
+2024-09-24 22:30:56	+DeepB|ue	Just my opinion, though.
+2024-09-24 22:31:47	+CoMBo	u saw it?
+2024-09-24 22:31:47	rkorandy	combo
+2024-09-24 22:31:51	+DeepB|ue	I'd rather see the original animated film in IMAX, personally.
+2024-09-24 22:31:57	rkorandy	dj combo
+2024-09-24 22:32:03	+DeepB|ue	I watched a decent telesync of it.
+2024-09-24 22:32:08	Sora	agentmx_: Look into "The Respect at Work and Other Amendments Bill 2024"
+2024-09-24 22:32:29	Sora	Queensland Australia
+2024-09-24 22:32:36	+agentmx_	thanks anyway but id rather watch paint peel
+2024-09-24 22:32:42	+CoMBo	is the story true to the original?
+2024-09-24 22:32:51	+DeepB|ue	No.
+2024-09-24 22:33:05	+CoMBo	well tickets are discounted today so 15 for imax
+2024-09-24 22:33:10	Sora	It treats social media posts as public acts and allows jailing for offending others and spreading what they call misinformation
+2024-09-24 22:33:10	+DeepB|ue	It's more in-line with Micheal Bay's vision.
+2024-09-24 22:33:14	+CoMBo	guess i'll take my chances
+2024-09-24 22:33:25	+DeepB|ue	Let me know what you think about it.
+2024-09-24 22:33:30	+CoMBo	at least the sound will be insane
+2024-09-24 22:33:39	+DeepB|ue	Oh, no doubt.
+2024-09-24 22:33:47	+incog	sora, spreading the fake name of a child killer to incite race riots from low IQ individuals is direct misinformation
+2024-09-24 22:33:51	Sora	Uk has already jailed 700+ people for posts online, often for 2+ years
+2024-09-24 22:34:06	Sora	Mostly related to immigration
+2024-09-24 22:34:16	+tsarmabob	oh good sora is back. just in time to watch his orange daddy get waxed again (this time by a woman of color)
+2024-09-24 22:34:27	+tsarmabob	the post-election meltdown will be epic
+2024-09-24 22:34:43	+agentmx_	the good news is mimmie left
+2024-09-24 22:34:47	+tsarmabob	it's too bad duhrilla won't be around to see it (RIP)
+2024-09-24 22:34:53	+agentmx_	and is now contaminating irc30
+2024-09-24 22:34:53	Sora	Oh, look- The person who pretends to ignore me
+2024-09-24 22:34:55	+incog	>i must defend the information operations of russia for free
+2024-09-24 22:35:08	+incog	this has become your personality now
+2024-09-24 22:35:19	+incog	weak and pathetic
+2024-09-24 22:35:30	Sora	More like defend Us dollars from money laundering operations
+2024-09-24 22:35:44	+tsarmabob	also: when seQue refers to himself as a "free thinker" he's just putting a dollar valuation on the mindvomit that results
+2024-09-24 22:35:51	+incog	how does spreading the fake name of a child killer aid in that sora?
+2024-09-24 22:36:00	Sora	I could care less about Russia or Ukraine. They can kill each other until the end of time as long as our money stays in the Us
+2024-09-24 22:36:10	Sora	What delusion are you on now?
+2024-09-24 22:36:24	+tsarmabob	fairly sure chudfarts have graduated to "i must defend all things Daddy Putin says and does, for free"
+2024-09-24 22:36:26	Sora	People are being jailed for immigration, as I said
+2024-09-24 22:36:40	+incog	you could care less you say? after attempting to run interference armed with a stained fsb script handed down to you from paid-for alt-media
+2024-09-24 22:36:40	+harelip	why did you return, sora?
+2024-09-24 22:36:50	Sora	Anti-immigration, rather
+2024-09-24 22:36:56	+tsarmabob	he could roll into poland tomorrow morning and they'd be gleefully parroting propaganda as to why it's actually the EU's fault (or murrika's, more likely) that it happened
+2024-09-24 22:37:03	+tsarmabob	+by tomorrow afternoon
+2024-09-24 22:37:18	+tsarmabob	harelip: he was tired of having nobody to vomit his alt-facts onto
+2024-09-24 22:37:27	+agentmx_	they need purvatin
+2024-09-24 22:37:29	resident-	Caring is detected.
+2024-09-24 22:37:32	Sora	Didn't particularly leave, harelip. Life got busy
+2024-09-24 22:37:54	+harelip	ok
+2024-09-24 22:38:04	Sora	How've you been?
+2024-09-24 22:38:33	+harelip	good. practicing gratitude.
+2024-09-24 22:38:54	resident-	Live Laugh Love.
+2024-09-24 22:39:12	+harelip	tsarmabob maybe drQ will be resurrected by November.
+2024-09-24 22:39:23	Sora	Do you like zif? He said he loves you the other day. If you don't want him, you should let him know so he drops it
+2024-09-24 22:39:39	Sora	It was kindof sad to watch
+2024-09-24 22:40:56	+agentmx_	DrQ is following trump around with a mop.......just in case
+2024-09-24 22:41:33	+incog	drq vanished when truth social shares started tanking
+2024-09-24 22:41:45	+DeepB|ue	Because you never know....when or where those odds will kick in.
+2024-09-24 22:41:46	+harelip	trump's ear is still bleeding. he calls it his stigmata.
+2024-09-24 22:41:56	+harelip	needs a mop up.
+2024-09-24 22:44:01	Sora	Djt is probably going to go down since Trump is posting on X now
+2024-09-24 22:44:37	+ort	Rolling into Poland would be another bad decision
+2024-09-24 22:44:54	+ort	Polish are just waiting for it
+2024-09-24 22:45:06	Sora	What's really interesting though. Austin Capital shorted 12,000,000(12M) shares on July 12th. One day before Matthew Crooks
+2024-09-24 22:45:42	+agentmx_	trump spill in aisle 4
+2024-09-24 22:46:17	Sora	It was $42 on July 12th so 42x12m
+2024-09-24 22:46:40	Sora	504m dollars worth
+2024-09-24 22:54:56	+bbbunni	side eye https://usercontent.irccloud-cdn.com/file/XtEmnIJ9/e6909da9-d5fc-4038-896d-7b0c5297eb98-1_all_5499.jpg
+2024-09-24 22:59:23	+harelip	Caroline Ellison, the former crypto executive and romantic partner of the disgraced FTX founder Sam Bankman-Fried, was sentenced to 24 months in prison...
+2024-09-24 23:03:15	+MINNIE18	Heh
+2024-09-24 23:03:18	+howto	:-)
+2024-09-24 23:03:47	+bbbunni	What fer?
+2024-09-24 23:04:45	+harelip	Ellison was a central figure in the FTX bankruptcy saga and key witness for the prosecution in the $8bn fraud trial that ended with Bankman-Fried’s conviction.
+2024-09-24 23:05:20	+harelip	In addition to the prison time, Ellison must also forfeit around $11bn in assets.
+2024-09-24 23:05:30	+harelip	harsh.
+2024-09-24 23:08:05	-->	fahrrad (~rigel@69.167.28.15) has joined #philosophy
+2024-09-24 23:08:08	+bbbunni	oh yeah him
+2024-09-24 23:08:09	fahrrad	hello you beauties
+2024-09-24 23:08:10	+bbbunni	lol
+2024-09-24 23:08:28	+incog	<Sora> Djt is probably going to go down since Trump is posting on X now
+2024-09-24 23:08:33	+incog	nobody was using it
+2024-09-24 23:08:43	+incog	ive never seen anybody at all link to it
+2024-09-24 23:09:11	+incog	even the most vitriolic rage baiters wouldnt use it
+2024-09-24 23:09:40	rkorandy	hey bbbunni
+2024-09-24 23:09:47	+incog	can anybody at all remember seeing a truth social link?
+2024-09-24 23:09:59	rkorandy	bbbunni do you have a master's in kinesthiology
+2024-09-24 23:11:23	+space	thats like foot massages ya?
+2024-09-24 23:12:03	rkorandy	hey space
+2024-09-24 23:13:03	+incog	shit is now so bad for russia that solovyev, the lead propagandist on russian tv, with the largest viewer base just suggested putin resign
+2024-09-24 23:14:12	+incog	his biggest cock washer just made that suggestion
+2024-09-24 23:14:37	+incog	televised, to the russians
+2024-09-24 23:15:04	+bbbunni	More proof bear spray doesn't work on bears:  https://youtu.be/PU0fIwuC0vg?si=SGm-A0Ym8gYW_Gw0
+2024-09-24 23:15:05	@phaedra	[YouTube] ⁨This "Viral" Bear Attack Story is more UNHINGED than you remember⚠️⁩ | 29m 37s | Channel: ⁨Kyle Hates Hiking⁩ | 4,087 views | 2024-09-24 - 19:31:12 UTC
+2024-09-24 23:16:23	+incog	either he is engaging in yet more political theatre or wants to be thrown out of the tallest window
+2024-09-24 23:16:39	+tsarmabob	damn she sold her polywhatever down the river for 2 years in prison and poverty
+2024-09-24 23:16:50	+tsarmabob	she should have taken off for parts unknown when she had the chance
+2024-09-24 23:17:11	+tsarmabob	crime doesn't pay if you don't let it
+2024-09-24 23:17:26	+harelip	yeah with 11bn she should have vanished.
+2024-09-24 23:18:07	+tsarmabob	keep 10, give me 1. try to fuckin find me
+2024-09-24 23:18:38	+harelip	look for capybaras wearing rolexes.
+2024-09-24 23:18:56	+incog	sora, do you know who solovyev is?
+2024-09-24 23:20:36	+incog	https://www.youtube.com/watch?v=dMfCXFHkUvw - this is the guy now suggesting putin resign
+2024-09-24 23:20:36	@phaedra	[YouTube] ⁨Vladimir Solovyov threatens Great Britain⁩ | 3m 16s | Channel: ⁨Russian Media Monitor⁩ | 35,520 views | 2024-09-20 - 16:46:33 UTC
+2024-09-24 23:21:34	+agentmx_	not ebay rolex' either
+2024-09-24 23:27:30	+Jigsaw	hi
+2024-09-24 23:27:36	+ort	Hi
+2024-09-24 23:30:18	@xartet	Sora is a cigar smoking mall ninja. He's barely above drinking age.
+2024-09-24 23:33:23	+agentmx_	heh
+2024-09-24 23:33:33	+agentmx_	mall ninja
+2024-09-24 23:35:49	@xartet	something like this https://i.redd.it/0scjggbv2r861.jpg
+2024-09-24 23:36:04	+bbbunni	https://www.yahoo.com/news/hurricane-tracker-tropical-storm-helene-intensifies-florida-declares-state-of-emergency-and-starts-evacuations-151120115.html?.tsrc=1340&ncid=crm_-1285232-20240924-87&bt_user_id=4JsM2y5W3pGbxDeC3I8aps1ShmvtObfPUHQvB1Sl35wHZxlHZxQKDbce3o0dF4w0KxacFlvKi6iI5kiwSj4ZfvUNEAju6Ot00MgzbCVb0hAoPLl1euoadnWiIBYIcdpT&bt_ts=1727193763032
+2024-09-24 23:36:05	@phaedra	[url] Yahoo is part of the Yahoo family of brands | www.yahoo.com ( https://tinyurl.com/24mmvodw )
+2024-09-24 23:36:14	+bbbunni	Florida doing evacuations
+2024-09-24 23:36:33	-->	SharP (uid99501@id-99501.uxbridge.irccloud.com) has joined #philosophy
+2024-09-24 23:39:20	+agentmx_	that is what happens when you make your own clothes
+2024-09-24 23:39:22	+Jigsaw	justa te
+2024-09-24 23:46:30	+Anselm	where are all the florida men and women going to go?
+2024-09-24 23:48:14	+agentmx_	mar a lardo
+2024-09-24 23:49:38	+tsarmabob	https://www.houstonchronicle.com/business/columnists/tomlinson/article/texas-2021-blackouts-pipeline-lawsuits-18266638.php
+2024-09-24 23:49:39	@phaedra	[url] Texas winter storm blackouts due to Uri caused by greed, suit says | www.houstonchronicle.com ( https://tinyurl.com/27pgwemx )
+2024-09-24 23:54:56	+Anselm	I want to get higher than a kite TONITE
+2024-09-24 23:56:10	+Anselm	puff
+2024-09-24 23:58:05	+Anselm	puff
+2024-09-25 00:00:48	-->	SUCKCUM (~u385026@208.sub-174-228-163.myvzw.com) has joined #philosophy
+2024-09-25 00:00:49	--	Mode #philosophy [+b *!*@208.sub-174-228-163.myvzw.com] by funtimes
+2024-09-25 00:00:49	<--	pupper has kicked SUCKCUM (..(cyp/k) Banned)
+2024-09-25 00:04:19	+tsarmabob	https://www.independent.co.uk/tv/news/donald-trump-late-night-show-johnny-carson-b2618266.html
+2024-09-25 00:04:20	@phaedra	[url] Donald Trump demands NBC bring back Johnny Carson - who died in 2005 | News | Independent TV | www.independent.co.uk ( https://tinyurl.com/249nv7dt )
+2024-09-25 00:06:25	+Anselm	oil up, gasoline down.
+2024-09-25 00:06:46	+incog	crime is down
+2024-09-25 00:08:40	+Anselm	if russia can't sell its oil its storage is going to go to capacity. Then it will have to shut down oil wells. And those are not easy to switch back on. In the long run, that will decrease oil supply.
+2024-09-25 00:09:06	+Anselm	especially wells in the permafrost
+2024-09-25 00:10:46	+harelip	Trump's mind is gone.
+2024-09-25 00:11:00	+tsarmabob	crime is down unless you watch any fox "news" at all
+2024-09-25 00:11:15	+incog	of course, if it bleeds it leads
+2024-09-25 00:11:19	+tsarmabob	also: haitians are not necessarily people from haiti. or even this hemisphere. (just so long as they're not white, the Narrative persists)
+2024-09-25 00:11:19	+harelip	caravans!
+2024-09-25 00:11:30	+harelip	cats and dogs!
+2024-09-25 00:11:36	+Anselm	you pretty well have to drill it again
+2024-09-25 00:11:42	+tsarmabob	mmm geese
+2024-09-25 00:11:45	+harelip	white infants!
+2024-09-25 00:11:46	+howto	=>
+2024-09-25 00:11:50	+tsarmabob	ever eat a goose? fuckers are good
+2024-09-25 00:11:57	+harelip	only duck.
+2024-09-25 00:12:06	+tsarmabob	duck can be good too
+2024-09-25 00:12:19	<--	resident- (~erasmus@syn-173-095-165-021.res.spectrum.com) has quit (Textual IRC Client: www.textualapp.com)
+2024-09-25 00:13:07	rkorandy	hey tsarmabob
+2024-09-25 00:13:28	rkorandy	tsarmabob i healed my knee
+2024-09-25 00:13:55	rkorandy	well you know what i think it was my heel
+2024-09-25 00:14:10	 *	space scarfs yet-another McDonald's cat&dog McMac Sandwich
+2024-09-25 00:14:11	rkorandy	i had to sit reverse style on the couch
+2024-09-25 00:14:17	+space	dude this is in EVERY corporate store now!
+2024-09-25 00:14:23	+space	are you trying these yet?
+2024-09-25 00:14:30	+Anselm	euw
+2024-09-25 00:14:38	rkorandy	i had a 4 for $5 at mcdonald's
+2024-09-25 00:14:42	+space	the dog?
+2024-09-25 00:14:53	+Anselm	no. being ms. pacman
+2024-09-25 00:15:00	rkorandy	small fires, 4 piece nugget, mcdouble, drink
+2024-09-25 00:15:10	+Anselm	waka waka waka waka
+2024-09-25 00:15:22	+space	oih skip the nuggets just get the McDonald's cat*dog McDouble
+2024-09-25 00:15:27	+space	its worth it
+2024-09-25 00:15:38	+Anselm	McFuckle. 
+2024-09-25 00:15:52	rkorandy	i think i got the heel problem from watching wwe
+2024-09-25 00:15:56	rkorandy	so i'm gonna sto pthat
+2024-09-25 00:16:48	+space	I'm working on a new project: I think we might be able, with the help of AI, harness the combustive volatility of Human Flatulence (Farts) to concentrate into a sort of neo-wood gas
+2024-09-25 00:17:15	+space	we can reuse a lot of the DARPA wood-gas technology from the 60's
+2024-09-25 00:17:18	rkorandy	space does AI actually construct objects based on what you type or does it just copy from previous conversations
+2024-09-25 00:17:25	+space	It dos neither
+2024-09-25 00:17:37	+space	but it might include your previous context
+2024-09-25 00:17:41	rkorandy	oh ok
+2024-09-25 00:18:03	rkorandy	the only thing i ever did with AI is make it type stories
+2024-09-25 00:18:13	+space	ask it about farts. trust me.
+2024-09-25 00:19:10	+space	Ask it hw to best perform a one-handed fart, i wonder how it would mangle that lol
+2024-09-25 00:19:17	rkorandy	bash: /usr/bin/start: No such file or directory
+2024-09-25 00:19:37	+incog	ive not played with the parlor tricks they are calling ai, when it can engage in static binary analysis for me then i will look into it
+2024-09-25 00:19:53	+space	incog: i got it to write a story about how Pluto smells farts.
+2024-09-25 00:20:07	+space	it made up a fictional pie made from farts.
+2024-09-25 00:20:12	+incog	lol
+2024-09-25 00:20:22	rkorandy	dun dun dun world the time has come to... push the button
+2024-09-25 00:20:42	+space	i also asked it for recommendations for an apertif ... it was quite thoughtful
+2024-09-25 00:20:55	+space	it considered the texture *and* smell!
+2024-09-25 00:21:04	+incog	the single most annoying thing about pluto is he thinks the govt paying his disability is out to get him
+2024-09-25 00:21:16	+space	i mena hes just psycho, i just dont do it anymore.
+2024-09-25 00:21:33	+space	i unignroe for 5 mintues and hes literaly just doing the same rage thing every time
+2024-09-25 00:21:44	+incog	yeah, its tedium
+2024-09-25 00:21:54	+incog	only chatter ive actually ignored
+2024-09-25 00:22:07	+space	only way to see text sometimes
+2024-09-25 00:22:15	+Anselm	impertinence has its consequences.
+2024-09-25 00:22:39	+space	oh god... fart-filled baked alaska
+2024-09-25 00:22:46	+space	hahahaha
+2024-09-25 00:22:47	+incog	he's oblivious of the L's he takes, i still remember how he was convinced by a yt video how hawaii had left the US
+2024-09-25 00:22:48	+howto	invaders need no one... NO ONE^%percent~*%percent#%percent%percent$%percent$ poit.
+2024-09-25 00:23:39	+incog	all it takes is somebody from a gun channel to say some dumb shit and he alt tabs to irc to repeat it without a single check
+2024-09-25 00:27:32	+Anselm	1953 Soviet Cybernetics
+2024-09-25 00:28:50	+incog	what we are doing right now is cybernetics
+2024-09-25 00:29:50	+incog	were so used to it that we take it for granted
+2024-09-25 00:29:54	+space	https://youtu.be/B668FFuU3HU
+2024-09-25 00:29:54	@phaedra	[YouTube] ⁨Shit Shitting Shitters Shitted and Shat on My Shitty Shits⁩ | 58s | Channel: ⁨The Gayest Monkey Lesbian Lover Band with Puking Horses and Widows - Topic⁩ | 341 views | 2017-11-19 - 17:23:37 UTC
+2024-09-25 00:30:40	+Anselm	Stalin banned it because its reference to neurons and that information was a substance of its own contradicted soviet theory
+2024-09-25 00:30:57	+incog	its also remarkably close to telepathy
+2024-09-25 00:31:46	+incog	i love you internet
+2024-09-25 00:31:52	+Anselm	SAGE came next
+2024-09-25 00:32:50	+incog	stalin also banned genetics in favour of lysenkoism, science wasnt that manlets strong point
+2024-09-25 00:33:42	+incog	genetics invalidates the notion that all structure in nature, hierarchies are man made
+2024-09-25 00:33:49	+Anselm	in 1958 Anatoly Kitov proposed an Internet of sorts
+2024-09-25 00:35:49	+incog	when i see early 20's girls on twitter gushing about how hot stalin looked in his bank robbing mugshots, i like to remind them he was only 5'4
+2024-09-25 00:35:54	+incog	the manlet of steel
+2024-09-25 00:37:04	+incog	we made the great mistake of not teaching about communism the same way we teach about nazism, it has allowed it to be rehabilitated
+2024-09-25 00:37:37	+Anselm	first they get you to wear a t-shirt. then they convert you beyond all reason. then they make you wear a suicide vest.
+2024-09-25 00:38:14	+Anselm	the Marxist 'bourgeois' were essentially Jews.
+2024-09-25 00:38:53	+Anselm	it is why the vatniks can blend marxism and fascism
+2024-09-25 00:38:53	+space	i think race and creed was eliminated from Soviets
+2024-09-25 00:39:01	+space	therfore, no Soviet was a Jew.
+2024-09-25 00:40:13	+Anselm	I had a little russian lesson from a gf: male: idiot. female: idiotka. plural: idiotski.
+2024-09-25 00:40:24	+space	its simple really, the MArxian turn of hegel simply transmutes the political body of any particular person, be they jew, or arab, and causes them, through the process of State Capitalize, to me reinstantiated as a Soviet Prole.
+2024-09-25 00:41:07	+Anselm	jews were not allowed to own land and all they could do is trade and lend money. So they lived together in the towns.
+2024-09-25 00:41:20	+space	... in the Soviet Union?
+2024-09-25 00:42:09	+Anselm	I am thinking in central europe which marx was writing about
+2024-09-25 00:42:39	+Anselm	marx also wrote on the jewish question
+2024-09-25 00:48:39	+incog	not to mention how the yevsektsia was dissolved and its members murdered in the great purge, they were also the refuseniks too who were mostly from the jewish minority along with other persected groups like the jehovas witnesses
+2024-09-25 00:49:55	+incog	as noble as a class-less, state-less society seems, at the end its still a removal of agency and identity, with anything else seen as opposition
+2024-09-25 00:50:15	+incog	i cant get behind that
+2024-09-25 00:50:59	+incog	you should be free to be you
+2024-09-25 00:51:27	+incog	and the closest we have to that is the liberal rules based world order that i will stand behind
+2024-09-25 00:53:45	+incog	even if its freedoms can be abused to hit itself
+2024-09-25 00:54:56	rkorandy	hey what up guys
+2024-09-25 00:55:01	rkorandy	i popped my shoulder back into place
+2024-09-25 00:55:16	rkorandy	i had to masturbate to do it
+2024-09-25 00:55:52	rkorandy	it felt like a burst water pipe
+2024-09-25 00:56:39	+incog	i would rather not be made to think about your jerking habits
+2024-09-25 00:57:18	rkorandy	ok
+2024-09-25 00:57:22	rkorandy	sorry incog
+2024-09-25 00:57:36	rkorandy	but if i don't say it it may happen again
+2024-09-25 00:57:55	+incog	i sure hope you dont run up to people in real life and be all "i just had a wank, want to know about it"
+2024-09-25 00:58:09	rkorandy	no
+2024-09-25 00:59:21	rkorandy	incog i'm watching sonic the hedgehog
+2024-09-25 01:01:54	+Anselm	must be a closet homosexual
+2024-09-25 01:02:57	+ort	Yeah but what about freedom of speech ?
+2024-09-25 01:04:20	+Anselm	we will determine which speech you will have freedom to speak
+2024-09-25 01:05:44	+ort	Will it change every 4 years ?
+2024-09-25 01:05:56	+incog	freedom of speech is fantastic, however when it is abused for solely malice, like screaming fire inside a crowded venue when there is none, with the intent of creating a fatal stampede, that is where it ends
+2024-09-25 01:06:23	+incog	this is why releasing fake names of child killers in an attempt to incite race riots is out of bounds
+2024-09-25 01:06:35	+incog	it only has a malicious intent
+2024-09-25 01:09:56	+incog	inciting to murder, terroristic threats all of these are and should be illegal
+2024-09-25 01:10:39	+incog	much like lying under oath is also a crime, despite being speech
+2024-09-25 01:10:48	+Anselm	not to mention inciting riots
+2024-09-25 01:13:26	+ort	Taking your kids out to riot is also illegal. Some didn’t get that memo.
+2024-09-25 01:14:16	+ort	Apparently they don’t teach that in racist school
+2024-09-25 01:17:51	+incog	the regulations on speech are only there because somebody abused the freedoms, instead of screaming at the abuser of them, the regulator is yelled at, when it comes to free speech absolutists, they pretty much only want to do what has been shown to be extremely reckless and endangering
+2024-09-25 01:17:57	-->	limesprou (~uid31435@id-31435.helmsley.irccloud.com) has joined #philosophy
+2024-09-25 01:18:37	+Anselm	laws are always passed after shit happens unless they are for the benefit of the rulers.
+2024-09-25 01:19:02	+Anselm	the nuisance laws had a lot of consequences.
+2024-09-25 01:20:05	+incog	i used to be an idealistic free speech absolutist back when i was a computer utopian, i would demand all information be free
+2024-09-25 01:20:25	+incog	growing up is realizing nobody should have easy access to the recipe for vx nerve agent
+2024-09-25 01:20:27	+Anselm	you can have free speech so long as you are not a nuisance to someone else
+2024-09-25 01:21:46	+ort	I’ll try my best. No promises
+2024-09-25 01:23:08	+incog	some information is simply so dangerous it has to be constrained
+2024-09-25 01:25:49	+incog	at the core of my computer utopianism was the idea that if everybody was connected, they would all have an equal voice but as we see, that isnt what occurs
+2024-09-25 01:26:31	+incog	the idealism neglected to consider charisma, how people can be led by conmen, cult leaders, malicious actors
+2024-09-25 01:26:45	+incog	advertizers
+2024-09-25 01:26:50	+incog	influencers
+2024-09-25 01:27:31	+ort	Here’s a golden oldie
+2024-09-25 01:27:37	+ort	https://www.youtube.com/watch?v=QwaKQvwMIe8
+2024-09-25 01:27:37	@phaedra	[YouTube] ⁨Grateful Dead - Dear Mr. Fantasy / Hey Jude (Foxboro, MA 7/2/89)⁩ | 10m 59s | Channel: ⁨Grateful Dead⁩ | 2,739,495 views | 2020-10-22 - 14:59:47 UTC
+2024-09-25 01:28:57	+incog	one of the biggest contradictions of the early hacking cultures philosophy is how a demand for information to be free infringes entirely on the demand for privacy
+2024-09-25 01:29:52	+incog	the same people demanding spooks give out their data were the same people emulating the spooks and encrypting their own shit
+2024-09-25 01:30:33	+incog	back then i just pretended not to see it
+2024-09-25 01:32:06	+incog	i thought we could become the civilian version of the nsa, a peoples inteliigence service
+2024-09-25 01:32:10	+incog	-i+l
+2024-09-25 01:33:46	+incog	i wasnt alone in this flawed idealism
+2024-09-25 01:34:08	<--	mr45 (~Username@cpc105936-hudd12-2-0-cust419.4-1.cable.virginm.net) has quit (Remote host closed the connection)
+2024-09-25 01:34:44	+CoMBo	https://nationalpost.com/news/canada/how-canada-convinced-the-world-to-eat-engine-lubricant
+2024-09-25 01:34:44	@phaedra	[url] How Canada convinced the world to eat engine lubricant | National Post | nationalpost.com ( https://tinyurl.com/2xz7fryg )
+2024-09-25 01:35:42	+incog	CoMBo drinks engine coolant
+2024-09-25 01:36:09	+CoMBo	i cook with duck fat and tallow
+2024-09-25 01:36:26	+incog	you still drink water and we use it to cool engines
+2024-09-25 01:36:30	+incog	you drink engine coolant
+2024-09-25 01:36:44	+incog	see how easy it is to abuse language into fearmongering?
+2024-09-25 01:37:18	+incog	it works on you as you desperately want to be scared of everything
+2024-09-25 01:37:33	+Anselm	it makes him get in his car and go out and consume.
+2024-09-25 01:37:56	+Anselm	anxiety and fear from media lead to more consumption
+2024-09-25 01:38:17	+Anselm	"I will keep eating these chips until I feel better."
+2024-09-25 01:39:05	+Anselm	"Oh no I ran out of chips. I better get in my car."
+2024-09-25 01:39:16	+incog	see that shit that rusts solid iron? you breathe that in every second
+2024-09-25 01:39:44	+CoMBo	BREAKING: Alberta Premier Danielle Smith announces province will amend Bill of Rights to include vaccine refusal.
+2024-09-25 01:39:44	+CoMBo	Legislation will be tabled in the coming weeks.
+2024-09-25 01:39:52	+CoMBo	let the seething begin
+2024-09-25 01:41:01	+incog	there wont be any, the global pandemic ended thanks to vaccines, the antivaxxers all lost
+2024-09-25 01:41:13	+incog	the biggest demonstrable L possible
+2024-09-25 01:42:13	+Anselm	When the Anthrax Leprosy Mu virus comes out they will be sorry.
+2024-09-25 01:42:57	+incog	a literal world wide experiment that showed every antivaxxer wrong, which you lived through
+2024-09-25 01:43:39	+Anselm	This virus is so bad that if you catch it your skin will fall off your bones and your head will fall off.
+2024-09-25 01:45:06	+incog	for 3 years CoMBo spammed irc as DrCoMBo reposting every scrap of bullshit he could find on alt-medicine blogs and /pol/
+2024-09-25 01:45:22	+incog	he has to live with knowing he was 100% wrong
+2024-09-25 01:45:46	-->	fleerbap (uid321433@id-321433.tinside.irccloud.com) has joined #philosophy
+2024-09-25 01:45:57	+incog	and i wont let him forget it
+2024-09-25 01:47:55	+incog	its why you see him and his ineffectual dickwashing sidekick jgr currently chatting as johnny get so riled at me
+2024-09-25 01:48:51	+incog	they do the cowardly move of claiming they were just trolling now everything points out to them being contrarian retards, but i know the truth
+2024-09-25 01:50:46	+johnny	incog that's false
+2024-09-25 01:50:56	+incog	^ retard
+2024-09-25 01:51:01	+johnny	you don't know anything about human biology much less how to read a medical journal
+2024-09-25 01:51:03	+johnny	rofl
+2024-09-25 01:51:04	+incog	^ retard
+2024-09-25 01:51:10	+johnny	the truth hurts, i know
+2024-09-25 01:51:12	+incog	^ retard
+2024-09-25 01:51:21	+johnny	say ^retard again to prove my point
+2024-09-25 01:51:25	+incog	^ retard
+2024-09-25 01:51:29	+johnny	exactly
+2024-09-25 01:51:30	+incog	^ retard
+2024-09-25 01:53:04	+johnny	"but i know the truth" LOL
+2024-09-25 01:53:08	+incog	^ retard
+2024-09-25 01:53:12	+johnny	hahaahahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-09-25 01:53:16	+incog	^ retard
+2024-09-25 01:53:16	+johnny	i love it
+2024-09-25 01:53:20	+incog	^ retard
+2024-09-25 01:53:21	Sora	^ Walking abortion advertisements
+2024-09-25 01:55:38	+Anselm	With its 2009 rate schedule, the Trans-Siberian Railway will transport a forty-foot container to Poland from Yokohama for $2,820, or from Busan for $2,154.
+2024-09-25 01:56:10	+Anselm	russia is upgrading it to 100 km/h. What could go wrong with that?
+2024-09-25 01:57:43	+Anselm	sabotage of this would make it difficult for china and north korea to ship to russia
+2024-09-25 01:59:04	+incog	there is already a big shortage of locomotives and they can't make more as the engine bearings are under sanction, its why you see the sabotage teams setting fire to the locos
+2024-09-25 01:59:29	+Anselm	the chinese have been shipping them bearings
+2024-09-25 01:59:57	@typhon	https://www.youtube.com/watch?v=209cuIXtsbo
+2024-09-25 01:59:57	@phaedra	[YouTube] ⁨HiTech - SPANK! ft. GDMRW (Official Video)⁩ | 2m 33s | Channel: ⁨HiTech⁩ | 24,677 views | 2024-09-17 - 17:00:06 UTC
+2024-09-25 02:00:02	+agentmx_	oh its queer johnny, another autist refugee
+2024-09-25 02:01:07	+incog	we would see new locos if that was the case Anselm, we dont see that
+2024-09-25 02:02:02	+incog	https://www.railfreight.com/railfreight/2024/08/15/russian-rail-faces-collapse-after-ukraines-kursk-invasion -this is what we do see
+2024-09-25 02:02:04	@phaedra	[url] Russian rail faces collapse after Ukraine’s Kursk invasion | RailFreight.com | www.railfreight.com ( https://tinyurl.com/25ux8ez9 )
+2024-09-25 02:03:16	+incog	russia moves everything by train, its their weak point
+2024-09-25 02:04:40	Timur	zarg
+2024-09-25 02:05:47	fahrrad	it's not a motorcycle, baby, it's a chopper
+2024-09-25 02:06:09	+Anselm	50,000 trains suspended. uh oh!
+2024-09-25 02:06:58	+Anselm	sitting ducks
+2024-09-25 02:07:32	+incog	the head of the RZD, told its loco drivers that if there are any delays they are getting sent to the front, so morale also at a nadir
+2024-09-25 02:08:24	fahrrad	what a place, if you're born there, you're automatically a conscript.  you are state property.
+2024-09-25 02:09:01	+Anselm	State Property! Beans! You gonna GET down or you gonna LAY down!
+2024-09-25 02:09:11	Timur	yum, beans
+2024-09-25 02:09:28	+Anselm	that was a great gangster flick
+2024-09-25 02:16:36	--	Mode #philosophy [-b *!*u231704@75.104.111.*] by xartet
+2024-09-25 02:30:28	-->	gay4pay4 (~louskunt@198.244.126.86) has joined #philosophy
+2024-09-25 02:31:44	+Anselm	did you hear this american vet volunteered to fight for the russians. he went over and was beaten to death by the russian soldiers.
+2024-09-25 02:32:06	<--	gay4pay (~louskunt@198.244.126.86) has quit (Ping timeout: 240 seconds)
+2024-09-25 02:32:42	Timur	that tracks
+2024-09-25 02:32:48	Timur	probably suspected him of being a spy
+2024-09-25 02:33:08	+Anselm	probably drunk
+2024-09-25 02:33:45	Timur	often a factor in the Great Russian Army
+2024-09-25 02:34:49	Timur	not only them, of course. My ex-gf's younger brother narrowly escaped being drafted into the Polish army. Back then (not sure about now), it was not unusual for a new recruit to be subject to being subject to a flying kick by a superior resulting in lung collapse or heart failure
+2024-09-25 02:43:05	+Anselm	poland wants to double its army to 300,000
+2024-09-25 02:43:19	+Anselm	and go to 5% of GDP
+2024-09-25 02:44:31	+Anselm	demand side economics
+2024-09-25 02:45:29	+harelip	Danica Patrick endorsed Trump.
+2024-09-25 02:46:28	Timur	huge.
+2024-09-25 02:46:59	Timur	https://x.com/ImtiazMadmood/status/1838382846399988132
+2024-09-25 02:47:00	@phaedra	[url] x.com | x.com ( https://tinyurl.com/2bsayv3x )
+2024-09-25 02:47:15	+Anselm	us military expenditure was more than this under carter and reagan
+2024-09-25 02:48:11	+Anselm	the high was 1982 at 6.81%
+2024-09-25 02:50:41	Timur	https://www.aljazeera.com/news/2024/9/24/strategic-partnership-us-admits-qatar-to-visa-waiver-programme
+2024-09-25 02:50:42	@phaedra	[url] ‘Strategic partnership’: US admits Qatar to visa waiver programme | Politics News | Al Jazeera | www.aljazeera.com ( https://tinyurl.com/22trxow2 )
+2024-09-25 02:50:49	Timur	what could possibly go wrong.
+2024-09-25 02:51:15	Timur	on the other hand, a good set of opptys to get some intel
+2024-09-25 02:53:08	-->	seguesan (~seguesan@45.132.159.103) has joined #philosophy
+2024-09-25 02:53:19	 *	seguesan .o O ( https://www.youtube.com/watch?v=drWhPBarXQw
+2024-09-25 02:53:19	@phaedra	[YouTube] ⁨Gavin Newsom Parody⁩ | 2m 2s | Channel: ⁨Mr Reagan⁩ | 102,810 views | 2024-09-23 - 15:00:45 UTC
+2024-09-25 02:53:34	seguesan	good afternoon, my fine young e-buttz
+2024-09-25 02:53:41	 *	harelip . o O ( https://www.youtube.com/watch?v=jqWPsnCkM2I
+2024-09-25 02:53:41	@phaedra	[YouTube] ⁨REACTION: Disgusting Racist Chant At Trump's PA Rally | Bulwark Takes⁩ | 13m 2s | Channel: ⁨The Bulwark⁩ | 544,966 views | 2024-09-24 - 02:57:14 UTC
+2024-09-25 03:01:56	 *	seguesan . o O ( https://www.youtube.com/watch?v=r6zJXTq3jZA
+2024-09-25 03:01:56	@phaedra	[YouTube] ⁨Justin Trudeau Makes Shocking Admission on The Colbert Show⁩ | 1m 59s | Channel: ⁨Danny Polishchuk⁩ | 5,812 views | 2024-09-24 - 19:12:46 UTC
+2024-09-25 03:02:41	+zif	dueling banjos
+2024-09-25 03:04:16	+agentmx_	that dude looks like a monkey
+2024-09-25 03:04:29	+ort	https://www.youtube.com/watch?v=qiGoTZSwEdA
+2024-09-25 03:04:29	@phaedra	[YouTube] ⁨Hitler’s Springfield Ohio Restaurant⁩ | 3m 53s | Channel: ⁨Cyclops Videos Joe W Rhea⁩ | 52,805 views | 2024-09-22 - 13:00:28 UTC
+2024-09-25 03:04:30	+agentmx_	those old toys where they bang cymbals
+2024-09-25 03:05:43	+agentmx_	Springfield, where men are men and pets are scared
+2024-09-25 03:06:59	seguesan	No animal will be off limits!
+2024-09-25 03:09:40	 *	seguesan .o O ( https://www.youtube.com/watch?v=sVspeqNnoWM
+2024-09-25 03:09:40	@phaedra	[YouTube] ⁨Kamala Harris Ad PARODY⁩ | 1m 52s | Channel: ⁨Mr Reagan⁩ | 419,308 views | 2024-07-26 - 13:14:54 UTC
+2024-09-25 03:09:45	 *	harelip . o O ( https://www.youtube.com/watch?v=flmzgU17-YY
+2024-09-25 03:09:45	@phaedra	[YouTube] ⁨Trump rally goes horribly wrong, supporters RUN OUT⁩ | 9m 3s | Channel: ⁨David Pakman Show⁩ | 999,777 views | 2024-09-23 - 20:00:15 UTC
+2024-09-25 03:10:00	seguesan	Deep State Puppet++
+2024-09-25 03:10:24	+zif	dueling banjos
+2024-09-25 03:10:36	seguesan	There's great significance to the passage of time, breh
+2024-09-25 03:11:12	+zif	https://www.youtube.com/watch?v=J6UG1Jlwiow
+2024-09-25 03:11:12	@phaedra	[YouTube] ⁨Dueling Banjos⁩ | 3m 17s | Channel: ⁨Eric Weissberg - Topic⁩ | 9,319,411 views | 2017-07-23 - 14:48:30 UTC
+2024-09-25 03:12:25	+incog	was it the deep state that made him shit himself in court with the brown note seguesan
+2024-09-25 03:12:52	seguesan	I was born to a middle class fambly.
+2024-09-25 03:13:18	seguesan	I've travelled all around the nation and I've heard of these peon concerns on occasion.
+2024-09-25 03:13:36	+incog	[x] doubt on all cases
+2024-09-25 03:13:39	+zif	i was gonna drink but the chat is shit
+2024-09-25 03:13:59	seguesan	You just need hope and such. Probably a healthy dose of ambition for a good future for your fambly.
+2024-09-25 03:14:18	seguesan	Vote => Me. kthx
+2024-09-25 03:14:33	+incog	is there any reason you are typing like you have brain damage
+2024-09-25 03:14:38	+harelip	as a failed heterosexual, seQue will never have offspring or a family.
+2024-09-25 03:15:06	seguesan	"I'm Joe's hoe, and I approve this scroe." -- K.H.
+2024-09-25 03:15:06	+harelip	he'll be replaced by the lizard people he worries about.
+2024-09-25 03:15:32	+harelip	his parents will never have a grandchild from his loins.
+2024-09-25 03:15:42	 *	seguesan . o O ( https://www.youtube.com/watch?v=NFutge4xn3w
+2024-09-25 03:15:42	@phaedra	[YouTube] ⁨Deliverance - Dueling Banjos (HQ)⁩ | 4m 30s | Channel: ⁨Gilded Entertainment Group⁩ | 15,475,159 views | 2009-06-25 - 18:52:14 UTC
+2024-09-25 03:15:51	+agentmx_	i hears the lizard people are locked in combat with the moon apes
+2024-09-25 03:15:55	 *	harelip 😢
+2024-09-25 03:15:58	+harelip	lol
+2024-09-25 03:16:11	+incog	in an astral battle with niburu
+2024-09-25 03:16:37	+agentmx_	doc q has been sent as space corps commander (of mops)
+2024-09-25 03:16:40	+harelip	your .au compatriot had a thing for lizard people.
+2024-09-25 03:16:53	+agentmx_	dwayne?
+2024-09-25 03:16:56	+harelip	yep
+2024-09-25 03:16:58	+zif	https://www.youtube.com/watch?v=F4nczjS0j30
+2024-09-25 03:16:58	@phaedra	[YouTube] ⁨Ubyh dance (Circassian) - Убыхский танец.m2ts⁩ | 7m 22s | Channel: ⁨bemmbybambino⁩ | 5,287,803 views | 2011-12-19 - 09:25:04 UTC
+2024-09-25 03:17:03	+agentmx_	yeah, nuts
+2024-09-25 03:17:10	+harelip	drQ is cleaning up on Mars.
+2024-09-25 03:17:11	Timur	Cherkessim are cool
+2024-09-25 03:17:25	Timur	whole villages of them in Jordan and Israel
+2024-09-25 03:17:40	+zif	where did neuralnet go
+2024-09-25 03:17:42	+agentmx_	are they like the merkins?
+2024-09-25 03:18:05	Timur	who?
+2024-09-25 03:18:26	+agentmx_	https://usercontent.irccloud-cdn.com/file/QCqA6I3I/246221125_2606946669450913_687871579681329556_n.jpg
+2024-09-25 03:18:48	Timur	they're from the region around Abkhazia, and their culture is basically that of the Caucasus. So, I'd sayno
+2024-09-25 03:19:05	+incog	https://pbs.twimg.com/media/GYQP-JDWkAE7Y1a?format=jpg&name=medium - kakari is also dead now, leaving nasrallah to cry alone
+2024-09-25 03:19:14	Timur	wuhu
+2024-09-25 03:19:15	Timur	!
+2024-09-25 03:19:19	+howto	O_O.
+2024-09-25 03:19:30	+agentmx_	kakari is the noise cockatoos make
+2024-09-25 03:19:51	+agentmx_	galahs i mean
+2024-09-25 03:20:03	+buff3r	neat
+2024-09-25 03:20:57	 *	seguesan . o O ( https://www.youtube.com/watch?v=r6zJXTq3jZA
+2024-09-25 03:20:58	@phaedra	[YouTube] ⁨Justin Trudeau Makes Shocking Admission on The Colbert Show⁩ | 1m 59s | Channel: ⁨Danny Polishchuk⁩ | 6,040 views | 2024-09-24 - 19:12:46 UTC
+2024-09-25 03:21:13	+agentmx_	zif, drq had an accident with an ivermectin suppository
+2024-09-25 03:21:14	Timur	Sri Lanka's new president dissolves parliament - BBC.com
+2024-09-25 03:21:39	+agentmx_	wacky celonese
+2024-09-25 03:21:50	seguesan	Praveen Trumpala
+2024-09-25 03:21:54	+agentmx_	tamils were pretty bad
+2024-09-25 03:22:12	+agentmx_	shootin and rootin and tootin
+2024-09-25 03:22:47	Timur	TikTok removes Russian state media outlets RT and Sputnik, citing 'covert influence operations' - NBC News
+2024-09-25 03:23:22	seguesan	TikTok late to the party?
+2024-09-25 03:23:23	+zif	dr. ed is off the glue factory in the sky
+2024-09-25 03:23:29	+agentmx_	bam! right in the sputnik
+2024-09-25 03:23:38	+buff3r	sputnik probe has its own tiktok? damn cool
+2024-09-25 03:23:59	+agentmx_	yep been going since 65
+2024-09-25 03:24:09	seguesan	How am I gonna party with Putin in his TikTok dance streams noaw?
+2024-09-25 03:24:37	+agentmx_	seque, why do you use babyspeak?
+2024-09-25 03:24:48	seguesan	I know my audience
+2024-09-25 03:24:55	+agentmx_	is it cool with the happnin crowd?
+2024-09-25 03:25:00	seguesan	pretty much
+2024-09-25 03:25:13	+agentmx_	hasnt caught on here
+2024-09-25 03:25:21	+agentmx_	thankfully
+2024-09-25 03:26:23	+zif	i heard the furry community is going to have a memorial for dr. ed
+2024-09-25 03:26:49	+agentmx_	wilbur is delivering the eulogy
+2024-09-25 03:27:57	-->	enometh (~enometh@117.254.37.224) has joined #philosophy
+2024-09-25 03:29:26	 *	seguesan .o O ( https://www.youtube.com/watch?v=mc1W_Pys88U
+2024-09-25 03:29:26	@phaedra	[YouTube] ⁨EAT THE CAT (OFFICIAL MUSIC VIDEO)⁩ | 1m 57s | Channel: ⁨The Marine Rapper⁩ | 3,832,542 views | 2024-09-16 - 03:30:08 UTC
+2024-09-25 03:29:34	+buff3r	quit horsin around in here
+2024-09-25 03:29:40	+zif	enometh!
+2024-09-25 03:29:50	 *	seguesan dancin' 2 EAT THE CAT
+2024-09-25 03:30:41	+zif	my chat is lagged for some reason, i feel like it is the latest macOS update
+2024-09-25 03:30:51	seguesan	Rough
+2024-09-25 03:30:53	seguesan	15?
+2024-09-25 03:31:19	+zif	ive been having various weird lags on some really light weight sites today
+2024-09-25 03:31:50	seguesan	I read somewhere that 15 has some nagware that hits you up every week to let its AI snap pix of your desktop
+2024-09-25 03:32:15	seguesan	If you accidentally say yes, you might be able to get into settings to turn it back off again.
+2024-09-25 03:33:03	seguesan	Also there's a hack where you can temporarily set the clock ahead and set it to remind you later, but that later is 5 years in the future.
+2024-09-25 03:34:14	 *	seguesan . o O ( https://9to5mac.com/2024/09/24/macos-sequoia-screen-recording-permission-nags-can-now-be-permanently-vanquished/
+2024-09-25 03:34:14	@phaedra	[url] macOS Sequoia screen recording permission nags can be zapped | 9to5mac.com ( https://tinyurl.com/2as2wg9j )
+2024-09-25 03:34:23	enometh	steve jobs was another failed antichrist
+2024-09-25 03:35:57	+zif	enometh do you ever wonder if you might be crazy
+2024-09-25 03:36:05	+zif	updating my router seems to have fixed the lag
+2024-09-25 03:36:13	+zif	nice
+2024-09-25 03:36:20	enometh	try updating ur ass
+2024-09-25 03:36:55	 *	seguesan not updating to 15 until they turn all that shit off
+2024-09-25 03:37:02	enometh	haha
+2024-09-25 03:37:24	enometh	only thing going to be turned off is seguesan
+2024-09-25 03:37:42	+zif	it hasnt nagged me yet
+2024-09-25 03:37:53	+zif	oh it's back to lagging oh well
+2024-09-25 03:38:13	--	Mode #philosophy [+vvvv gay4pay4 SharP fahrrad fleerbap] by xartet
+2024-09-25 03:38:13	--	Mode #philosophy [+vvvv enometh aborazmeh Timur Sora] by xartet
+2024-09-25 03:38:13	--	Mode #philosophy [+vvv seguesan limesprou rkorandy] by xartet
+2024-09-25 03:38:21	+seguesan	Well that lagging bit might be it taking the AI pix in the background. You already accidentally approved.
+2024-09-25 03:38:26	+seguesan	What kind of machine you got breh
+2024-09-25 03:38:39	+seguesan	M1?
+2024-09-25 03:38:44	+zif	m2 pro
+2024-09-25 03:38:57	+zif	its definitely network code lagging somewhere
+2024-09-25 03:39:02	+zif	its not the computer
+2024-09-25 03:39:10	+seguesan	Hrm. I figured if anything was gonna get any lags it would be one of the Intel machines they grandfathered in
+2024-09-25 03:39:17	+zif	some sites just hang
+2024-09-25 03:39:21	+enometh	uploading the hd2k
+2024-09-25 03:39:32	+zif	its nothing to do with cpu usage
+2024-09-25 03:39:35	+zif	at all
+2024-09-25 03:39:37	+zif	its networking
+2024-09-25 03:39:51	+seguesan	weird
+2024-09-25 03:39:52	+zif	ebay lagged, some other random light weight shits lagged, this is lagging
+2024-09-25 03:40:04	<--	SharP (uid99501@id-99501.uxbridge.irccloud.com) has quit (Quit: Connection closed for inactivity)
+2024-09-25 03:40:16	+seguesan	Maybe the AI is reaching out to these sites in the background and is making friends.
+2024-09-25 03:40:27	+enometh	i see apple updates to iphone traffic, the traffic alone  looks like it does an rsync which theoretically transfers your image to apple while downloading the new image
+2024-09-25 03:40:45	+zif	doesn't seem to be happening on windows
+2024-09-25 03:46:47	--	irc: disconnected from server
+2024-09-25 06:22:38	-->	pi1 (~pi@109.138.241.206) has joined #philosophy
+2024-09-25 06:22:38	--	Topic for #philosophy is ".wea down until further notice | Yahoo is part of the Yahoo family of brands. | rkorandy's knee is healed | do the needful"
+2024-09-25 06:22:38	--	Topic set by jogmaster (sid325715@hampstead.irccloud.com) on Mon, 23 Sep 2024 04:53:40
+2024-09-25 06:22:38	--	Channel #philosophy: 100 nicks (17 ops, 78 voices, 5 normals)
+2024-09-25 06:22:40	--	Channel created on Wed, 11 Jul 2001 22:36:20
+2024-09-25 06:22:49	+J-hex	sleepufool
+2024-09-25 06:23:07	+Jigsaw	I am super price conscience because I'm a low income individual
+2024-09-25 06:23:09	+agentmx_	sorry bbbunni ill try to show more interest in your "dabs are like heroin" story
+2024-09-25 06:23:10	+bbbunni	it's only 9"15
+2024-09-25 06:23:15	+agentmx_	idiot
+2024-09-25 06:23:20	+bbbunni	oh stop Jigsaw 
+2024-09-25 06:23:28	+bbbunni	you have more money than lots of people
+2024-09-25 06:23:46	+agentmx_	racist shitbag
+2024-09-25 06:24:00	+zif	aren't you racist against enometh
+2024-09-25 06:24:09	+zif	you make fun of enometh like a racist would
+2024-09-25 06:24:16	+zif	you and harelip both
+2024-09-25 06:24:31	+J-hex	zif the gossipgirl
+2024-09-25 06:24:39	+zif	it's justified for him being crazy and anti-semitic
+2024-09-25 06:24:40	+bbbunni	what race is enometh?
+2024-09-25 06:24:49	+bbbunni	that way i can make fun of his race better
+2024-09-25 06:24:50	+zif	enometh is a brown south asian
+2024-09-25 06:25:00	+zif	either that or he is hiding being caucasian
+2024-09-25 06:25:09	+J-hex	lizard ppl is eno
+2024-09-25 06:25:17	+bbbunni	nobody cares
+2024-09-25 06:25:20	+Jigsaw	need to eat again
+2024-09-25 06:25:24	+zif	he's an indian
+2024-09-25 06:25:24	-->	Intns (~Intns@syn-047-039-198-175.res.spectrum.com) has joined #philosophy
+2024-09-25 06:25:27	+bbbunni	especially not me
+2024-09-25 06:25:28	+zif	they make fun of indians
+2024-09-25 06:25:42	+zif	i'm not saying I think it's racist, i'm saying isn't this commonly described as racist
+2024-09-25 06:25:47	+zif	making fun of a nationality or race
+2024-09-25 06:25:53	+zif	i think it's fine
+2024-09-25 06:26:07	+zif	these guys say that worst thing you can do is something like that, yet they do it
+2024-09-25 06:26:16	+zif	come on man im not buying this routine
+2024-09-25 06:26:40	+bbbunni	no when i make fun of enometh i'm making fun of him not his race
+2024-09-25 06:26:48	+zif	it's ok to stereotype or mock racesa dn nationalities
+2024-09-25 06:26:53	+zif	and
+2024-09-25 06:27:06	+bbbunni	whatever
+2024-09-25 06:27:12	+zif	people do it all the time
+2024-09-25 06:27:14	+bbbunni	people are fucking stupid
+2024-09-25 06:27:30	+zif	most of what people do is mocking or stereotyping a race
+2024-09-25 06:27:34	+bbbunni	anyone that really believes that way is deeply stupid
+2024-09-25 06:27:58	+bbbunni	we're all the same
+2024-09-25 06:28:03	+bbbunni	i keep telling everyone
+2024-09-25 06:28:24	+bbbunni	but some people are deeply stupid
+2024-09-25 06:28:36	+zif	i'm pretty attracted to italian, jewish, spanish/latina, and greek women. and caucasian proper.
+2024-09-25 06:28:38	+agentmx_	im not the same as you bbbunni tyvm
+2024-09-25 06:28:56	+zif	theres basically 2 types of women im attracted to
+2024-09-25 06:29:00	+agentmx_	i can smoke a j without falling on my face
+2024-09-25 06:29:00	+bbbunni	i usually just end up with white guy nerds, except for jeff
+2024-09-25 06:29:10	+Jigsaw	rip jeff
+2024-09-25 06:29:16	+bbbunni	i know
+2024-09-25 06:29:16	+agentmx_	what about perfect penis brian?
+2024-09-25 06:29:28	+bbbunni	Jeff thought it was cool that i couldn't tan
+2024-09-25 06:29:48	+bbbunni	he thought it looked really pretty
+2024-09-25 06:29:51	+agentmx_	vampyre
+2024-09-25 06:30:05	+bbbunni	he was okay looking
+2024-09-25 06:30:14	+bbbunni	but he was so smart
+2024-09-25 06:30:18	+agentmx_	oh god this is mimmiesque
+2024-09-25 06:30:44	+zif	i'm kidding about types in a way
+2024-09-25 06:30:51	+zif	having "types" is a sign of psychopathy
+2024-09-25 06:31:04	+zif	but i could classic the women i am attracted to into two groups, i realized
+2024-09-25 06:31:08	<--	aborazmeh (~aborazmeh@88.243.128.136) has quit (Quit: Bye!)
+2024-09-25 06:32:23	+Sora	Too much power is given to isms and what other people say about you
+2024-09-25 06:32:24	+bbbunni	lol
+2024-09-25 06:32:26	+bbbunni	okay
+2024-09-25 06:32:36	+Sora	People have become pussified faggots out of fear of other's opinions
+2024-09-25 06:32:46	+bbbunni	i really loved jeff
+2024-09-25 06:33:37	+bbbunni	in case anyone wants to know what cool show i'm watching:  Being Human
+2024-09-25 06:34:15	+bbbunni	if you read the blurb it sounds dumb, but it's way better than it sounds
+2024-09-25 06:44:48	+zif	it's funny that it is aryan vs. german that i would think of the types of women i like
+2024-09-25 06:45:04	+zif	aryan is more like polish or irish than german is, or than nordic is
+2024-09-25 06:45:41	+zif	but i was thinking there are women with dark hair and pale-ish skin, and women with light hair and pale-ish skin
+2024-09-25 06:45:50	+zif	caucasoids
+2024-09-25 06:45:59	+zif	should i not say that out loud or what
+2024-09-25 06:46:08	+incog	this just after saying
+2024-09-25 06:46:09	+incog	<+zif> having "types" is a sign of psychopathy
+2024-09-25 06:46:14	<--	Intns (~Intns@syn-047-039-198-175.res.spectrum.com) has quit (Quit: #philosophy)
+2024-09-25 06:46:48	-->	resident- (~erasmus@syn-173-095-165-021.res.spectrum.com) has joined #philosophy
+2024-09-25 06:47:04	+zif	indo-european is the farmers
+2024-09-25 06:47:17	+zif	and in the steppes raiders or something
+2024-09-25 06:47:46	+zif	almost all of northern india is the same male lineage as eastern europe and western europe.
+2024-09-25 06:48:00	+burtie[Z]	tuscan raiders?
+2024-09-25 06:48:39	+zif	i think the idea is i am not supposed to say things like that
+2024-09-25 06:50:09	+incog	?
+2024-09-25 06:51:28	+zif	england swedene norway and the netherlands 99% of the native populations makes lactase
+2024-09-25 06:56:32	+incog	incorrect, are you drunk or is this a bit of being so wrong you make me crack out the maps
+2024-09-25 06:58:30	+zif	absurd
+2024-09-25 06:58:36	+zif	you're trolling
+2024-09-25 06:59:04	+incog	im not the one making incorrect claims and acting like the are true
+2024-09-25 06:59:20	+zif	99% was hyperbole
+2024-09-25 06:59:27	+incog	then shut up
+2024-09-25 06:59:33	+zif	"native"
+2024-09-25 06:59:46	+zif	i would argue that all of this population made lactase
+2024-09-25 06:59:54	+zif	because they lived off it
+2024-09-25 06:59:57	+zif	off cow milk
+2024-09-25 07:00:00	+incog	shut
+2024-09-25 07:00:01	+incog	the
+2024-09-25 07:00:03	+incog	fuck
+2024-09-25 07:00:04	+incog	up
+2024-09-25 07:00:25	+incog	i dont want to read some half baked race science from an actual retard, thanks
+2024-09-25 07:00:44	+zif	what source would you take as reliable
+2024-09-25 07:00:55	+incog	not you
+2024-09-25 07:01:10	+zif	it's plain as day
+2024-09-25 07:01:45	+zif	the gothenburg-centered population lived off cows milk (not that gothenburg existed at the time)
+2024-09-25 07:01:53	+zif	look at any map
+2024-09-25 07:01:59	+zif	or dna
+2024-09-25 07:02:03	resident-	Less enter key.
+2024-09-25 07:04:21	<--	ort_ (~igloo@109.138.241.206) has quit (Read error: Connection reset by peer)
+2024-09-25 07:04:26	-->	ort (~igloo@109.138.241.206) has joined #philosophy
+2024-09-25 07:07:07	+zif	incog was wrong about something else earlier too
+2024-09-25 07:07:11	+zif	seems like a troll
+2024-09-25 07:07:24	+zif	what was that you were pissing about before that you were wrong about too
+2024-09-25 07:07:33	+zif	do i have to scroll
+2024-09-25 07:08:05	-->	rkorandy (~kvirc@71.214.176.44) has joined #philosophy
+2024-09-25 07:08:28	rkorandy	hello
+2024-09-25 07:08:36	+zif	is your knee fixed?
+2024-09-25 07:09:04	rkorandy	yes zif
+2024-09-25 07:09:18	rkorandy	i did it by using shaving cream differentlu
+2024-09-25 07:09:19	+zif	thats great do you feel relieved
+2024-09-25 07:09:23	rkorandy	yes zif
+2024-09-25 07:10:46	rkorandy	zif how do you feel
+2024-09-25 07:11:45	rkorandy	zif do you feel amazing
+2024-09-25 07:12:20	<--	gay4pay4 (~louskunt@198.244.126.86) has quit (Quit: Ping timeout (120 seconds))
+2024-09-25 07:12:50	-->	gay4pay (~louskunt@198.244.126.86) has joined #philosophy
+2024-09-25 07:13:45	+zif	should you admit that
+2024-09-25 07:13:59	+zif	feeling amazing is quasi-manic
+2024-09-25 07:15:13	rkorandy	it's ok zif
+2024-09-25 07:15:32	rkorandy	i just want to enjoy being with my friends in #philosophy
+2024-09-25 07:15:40	rkorandy	with bbbunni and tsarmabob
+2024-09-25 07:15:44	+zif	you dont talk a lot
+2024-09-25 07:15:48	+zif	you like tsarmabob?
+2024-09-25 07:15:53	rkorandy	yeah
+2024-09-25 07:16:56	rkorandy	i'm starting to talk more
+2024-09-25 07:17:06	+zif	that's good
+2024-09-25 07:18:55	rkorandy	zif what type of supplements you take
+2024-09-25 07:19:18	+zif	i let them go to waste if i ever order vitamins or shit, i take modafinil though
+2024-09-25 07:19:29	+zif	modafinil is fucking dope as shit
+2024-09-25 07:20:31	rkorandy	oh i love modafinil but it keeps me awake too much
+2024-09-25 07:20:38	rkorandy	no can't hae that
+2024-09-25 07:20:52	+zif	you need something to sleep with it or take it very first thing in the morning
+2024-09-25 07:21:05	rkorandy	i just can't take it
+2024-09-25 07:21:07	+zif	it's for narcolepsy
+2024-09-25 07:21:16	rkorandy	it makes me manic
+2024-09-25 07:21:51	rkorandy	i find that my knee is better when i put shaving cream on my wrist and smear it on my face and rub it in with the otehr and
+2024-09-25 07:22:07	+zif	i was going to say before that you are getting weird
+2024-09-25 07:22:15	+zif	you know this though
+2024-09-25 07:23:55	rkorandy	well i just think it's something i'm doing
+2024-09-25 07:24:04	+bbbunni	:P
+2024-09-25 07:24:04	rkorandy	what i was doing before was just squirting it on my hand
+2024-09-25 07:24:14	+bbbunni	zif how come you won't chat with me
+2024-09-25 07:24:19	rkorandy	and smearing it on my face
+2024-09-25 07:24:22	+zif	i always do bbbunni
+2024-09-25 07:24:31	+zif	you dont even respond quickly to privmsg
+2024-09-25 07:24:36	+bbbunni	oh 
+2024-09-25 07:24:44	+bbbunni	i usually don't for days
+2024-09-25 07:24:56	rkorandy	i'll chat with you bbbunni
+2024-09-25 07:24:59	+bbbunni	well i was talking and talking and talkig
+2024-09-25 07:25:08	+bbbunni	:)
+2024-09-25 07:25:24	+bbbunni	okay you guys are nice
+2024-09-25 07:25:24	rkorandy	bbbunni what videos do you watch on youtube
+2024-09-25 07:25:28	+bbbunni	i'm low on dopamine
+2024-09-25 07:25:33	<--	roygbiv (uid432317@id-432317.helmsley.irccloud.com) has quit (Quit: Connection closed for inactivity)
+2024-09-25 07:25:39	rkorandy	you are bbbunni?
+2024-09-25 07:25:39	+zif	bbbunni: you need to keep a to do list
+2024-09-25 07:25:40	+bbbunni	should i hit myself in the head with a hammer
+2024-09-25 07:25:45	+zif	simple as that
+2024-09-25 07:25:47	+bbbunni	yes
+2024-09-25 07:25:57	rkorandy	lol
+2024-09-25 07:26:01	rkorandy	thor!
+2024-09-25 07:26:03	+zif	the longer you make your to do list and the more organized the better
+2024-09-25 07:26:06	+bbbunni	shit 
+2024-09-25 07:26:21	+bbbunni	i keep getting stoned then i get angry 
+2024-09-25 07:26:24	+bbbunni	and crazy
+2024-09-25 07:26:28	+bbbunni	i should go to bed
+2024-09-25 07:26:29	rkorandy	bbbunni i read some of exodus tonight
+2024-09-25 07:26:33	+bbbunni	good night
+2024-09-25 07:26:41	rkorandy	good night bbbuni
+2024-09-25 07:26:48	rkorandy	stay here
+2024-09-25 07:26:53	rkorandy	please
+2024-09-25 07:27:00	+agentmx_	+bbbunni> i'm low on dopamine but big on dope
+2024-09-25 07:27:01	+bbbunni	religion is all lies
+2024-09-25 07:27:05	+bbbunni	read something real
+2024-09-25 07:27:18	<--	DeepB|ue (~deepblue@164.153.62.66) has quit (Quit: Priority Interrupt: ________)
+2024-09-25 07:27:26	rkorandy	i just gotta read exodus
+2024-09-25 07:27:40	rkorandy	then levitivus
+2024-09-25 07:29:34	rkorandy	bbbunni do you ever play nascar
+2024-09-25 07:31:25	rkorandy	bbbunni i thought they were like saying the Lord's name was Popeye
+2024-09-25 07:31:33	rkorandy	tell him my name is i am
+2024-09-25 07:31:41	rkorandy	i am what i am
+2024-09-25 07:31:59	rkorandy	i'm popeye the sailor man
+2024-09-25 07:34:02	rkorandy	bbbunni i heard one of my friends only plays RPGs when i am at his house and then when i leave he takes up nascar and gran turismo
+2024-09-25 07:35:07	-->	enometh (~enometh@117.254.36.120) has joined #philosophy
+2024-09-25 07:35:19	+incog	do you like rpgs? maybe hes doing it to please you so there is some common ground
+2024-09-25 07:35:46	enometh	guys once i figure out how to connect to lichat i'm going to start using lichat
+2024-09-25 07:37:20	rkorandy	i like rpgs because he plays them cool
+2024-09-25 07:37:28	rkorandy	he like discovers every secret
+2024-09-25 07:37:29	enometh	by rpg you mean remote grenade launcher?
+2024-09-25 07:37:37	rkorandy	no role playing game
+2024-09-25 07:37:53	rkorandy	he leaves no stone unturned
+2024-09-25 07:39:07	+Jigsaw	how do I join the CIA?
+2024-09-25 07:39:51	rkorandy	i swear SF6 has the best ASMR
+2024-09-25 07:39:52	enometh	jig you may already have joined the cia
+2024-09-25 07:40:04	enometh	you may already be working for the cia
+2024-09-25 07:41:22	+agentmx_	oh noes another deep state psyop, according to ghandi over there
+2024-09-25 07:41:29	+incog	you will have to be willing to relocate to DC Jigsaw, you will also undergo polygraph tests and other mole test
+2024-09-25 07:41:29	rkorandy	Jigsaw why do you want to be in the CIA
+2024-09-25 07:41:44	+incog	and yes polygraphs are a meme but they are still used
+2024-09-25 07:41:51	+agentmx_	you may attrct multiple parking fines
+2024-09-25 07:42:26	+incog	they allow dual citizens these days
+2024-09-25 07:42:55	+fahrrad	the CIA has recruiting offices in every major metropolis
+2024-09-25 07:43:08	rkorandy	is a polygraph one of those roarscharch pics
+2024-09-25 07:43:09	+Jigsaw	I am currently watching some CIA interviews
+2024-09-25 07:43:13	+Jigsaw	past agents
+2024-09-25 07:43:19	+Jigsaw	John Kiriakou
+2024-09-25 07:43:20	+fahrrad	they're disguised as Chick Fil-A's
+2024-09-25 07:43:38	enometh	do you want to kill trump jigsaw?
+2024-09-25 07:43:39	rkorandy	Chick Fil A agent
+2024-09-25 07:43:44	+incog	no rkorandy, its a lie detector test that measures skin resistance, heart rate and blood pressure
+2024-09-25 07:43:50	+Jigsaw	enometh: not at all
+2024-09-25 07:43:57	enometh	why else do you want to join cia
+2024-09-25 07:43:58	+zif	enometh i suggest not saying anything like that
+2024-09-25 07:44:01	+Jigsaw	MAGA 2024
+2024-09-25 07:44:02	rkorandy	incog what's a roarscharch pic
+2024-09-25 07:44:03	+incog	they can be tricked with trivial techniques and not admissable in court
+2024-09-25 07:44:21	+incog	a roarscharch pic is the ink blot test
+2024-09-25 07:44:21	+zif	dont talk about that kind of crime unless you want to get flagged for being watching
+2024-09-25 07:44:23	+zif	watched
+2024-09-25 07:45:04	+fahrrad	but if you talk to the manager and say you want to join the CIA and touch your left nostril with your right pinkie, he'll get someone to interview your family and friends to ensure you're loyal to the cause
+2024-09-25 07:46:04	rkorandy	fahrrad you really think they'll let a orangutang like Jigsaw
+2024-09-25 07:46:11	+incog	real life isnt like action movies enometh, the cia are not hitmen, its mostly very boring intel sorting and creating humint networks
+2024-09-25 07:46:29	+fahrrad	once everyone you've ever known including that kid you met at christian day camp (you know that guy) has vouched for you, then you're in
+2024-09-25 07:46:48	+johnny	rofl
+2024-09-25 07:46:50	+agentmx_	they are hunting enometh because he doesnt matter
+2024-09-25 07:46:59	+johnny	incog doesnt know anything about the CIA
+2024-09-25 07:46:59	+fahrrad	rkorandy: they need guys like Jigsaw
+2024-09-25 07:47:02	+incog	cia does humint, human on human intelligence, nsa does sigint, signals intelligence
+2024-09-25 07:47:14	+johnny	buzzword + buzzword + buzzword + buzzword + buzzword + 
+2024-09-25 07:47:18	+agentmx_	oh its queer johnny the autist
+2024-09-25 07:47:21	+johnny	what a goof
+2024-09-25 07:47:32	+fahrrad	come on anyone who's read tom clancy knows all about that stuff
+2024-09-25 07:47:38	+johnny	oh hey agentmx_ 
+2024-09-25 07:47:40	+johnny	how much did you drink tonight
+2024-09-25 07:47:42	+johnny	?
+2024-09-25 07:47:51	rkorandy	fahrrad he's an orangutang
+2024-09-25 07:47:52	+fahrrad	but if you want a real shot at joining, you have to have read dick marcinko too
+2024-09-25 07:47:54	+buff3r	clancy tom
+2024-09-25 07:48:07	+agentmx_	1.its 3pm and 2. nothing and 3. you are a plonker
+2024-09-25 07:48:29	<--	gay4pay (~louskunt@198.244.126.86) has quit (Quit: Ping timeout (120 seconds))
+2024-09-25 07:48:39	rkorandy	clancy's aldi's
+2024-09-25 07:49:13	enometh	its not his fault he is brainwashed
+2024-09-25 07:49:18	+Jigsaw	Tom Clancy?
+2024-09-25 07:49:19	+incog	the humint network for the IRA, when i rolled with them were the taxi drivers, they knew all the locals and who was being picked up from which airports, they could lower peoples guards with opening jokes and probing them about why they were there, people would divulge as its just a cab driver right
+2024-09-25 07:49:21	rkorandy	congratulations you win
+2024-09-25 07:49:31	-->	gay4pay (~louskunt@198.244.126.86) has joined #philosophy
+2024-09-25 07:50:03	enometh	yeah but you should be understanding
+2024-09-25 07:50:56	+johnny	more tall tales from incog
+2024-09-25 07:51:53	enometh	one paycheck from the dod and wave dropped the u in colour
+2024-09-25 07:52:15	+agentmx_	yes lol im on the payroll
+2024-09-25 07:52:22	+agentmx_	what a drongo
+2024-09-25 07:52:22	enometh	not now
+2024-09-25 07:52:26	+johnny	no you're not agentmx_ 
+2024-09-25 07:52:30	+incog	fast food workers and short order cooks also work well as humint networks, especially if they are located near a listening post, embassy or known stakeout locations
+2024-09-25 07:52:37	+johnny	you'd have to take a drug test agentmx_ 
+2024-09-25 07:52:45	+agentmx_	why?
+2024-09-25 07:53:06	+incog	you politely ask them to make note of recurring faces and times
+2024-09-25 07:53:07	enometh	wave dropped the u in colour faster than hilarys panties in a bankers meeting
+2024-09-25 07:53:08	+johnny	alcohol is a drug
+2024-09-25 07:53:16	+agentmx_	im reired more than comfortably, send me a test
+2024-09-25 07:53:22	+johnny	ok
+2024-09-25 07:53:23	+zif	alcohol is a good drug
+2024-09-25 07:53:53	+johnny	one of the worst for you though
+2024-09-25 07:53:58	+agentmx_	i dont drink much at all these days queer johnny, sorry to piss on your very weak troll
+2024-09-25 07:54:15	+johnny	i think compared to other substances alcohol does more damage
+2024-09-25 07:54:28	+incog	he learnt everything he knows from CoMBo, who was already shit at trolling, so it is to be expected
+2024-09-25 07:54:36	+johnny	agentmx_ if i was going to troll you, you'd know
+2024-09-25 07:54:37	+zif	it's kind of fun that alcohol is potentially harmful
+2024-09-25 07:54:46	+zif	adds to the thrill
+2024-09-25 07:54:47	+agentmx_	yr a lightweight queer johnny, maybe fuck off back to chode
+2024-09-25 07:54:50	+incog	the sidekick of a shit troll, always the bridesmaid
+2024-09-25 07:55:33	+johnny	i just keep thinking back to a few weeks ago when incog proudly listed his credentials and thought "Founding member of GNAA" was some kind of accomplishment
+2024-09-25 07:55:35	+johnny	lol
+2024-09-25 07:55:47	+johnny	that was the point which i legit felt bad for him as a person
+2024-09-25 07:55:58	+incog	i created what you are bad at
+2024-09-25 07:56:04	enometh	is the gnaa irc still up
+2024-09-25 07:56:09	+johnny	excuse me?
+2024-09-25 07:56:36	+johnny	you didn't create anything i have ever said, used, borrowed, or cared about
+2024-09-25 07:56:40	+johnny	that's a fact
+2024-09-25 07:56:52	enometh	dont mind incog johnny 
+2024-09-25 07:56:59	+agentmx_	johnny why dont you fuck off to #irc30 and keep mimmie company
+2024-09-25 07:57:16	+johnny	enometh yeah he's not important
+2024-09-25 07:57:24	+johnny	agentmx_: why are you stalking people?
+2024-09-25 07:57:24	enometh	why isnt mimmie  here
+2024-09-25 07:57:34	+agentmx_	she left
+2024-09-25 07:57:42	+agentmx_	in a huff
+2024-09-25 07:57:48	+johnny	i heard you are stalking her agentmx_ 
+2024-09-25 07:57:50	+johnny	is that true?
+2024-09-25 07:57:51	+agentmx_	then came back and left again
+2024-09-25 07:57:57	+zif	Probably too mean to Mimmie yes
+2024-09-25 07:58:06	+agentmx_	hope so
+2024-09-25 07:58:17	+zif	mimmie is a target of abuse like enometh
+2024-09-25 07:58:23	+incog	strangely she said something about her not idling a client in here, just after somebody mentioning her doing so
+2024-09-25 07:58:24	+agentmx_	that was the long game, observe queer johnny
+2024-09-25 07:58:58	+johnny	agentmx_ you're only offending incog when you say that, who is super woke
+2024-09-25 07:58:58	+agentmx_	mimmie, like enomethead and now queer johnny all lead with their chins
+2024-09-25 07:59:22	+zif	relentlessly ridiculing mimmie is too harsh because she is kind of just a simple person who is too proud
+2024-09-25 07:59:26	+agentmx_	i dont give a toss whom i offend
+2024-09-25 07:59:35	+incog	i agree with agentmx_, johnny, you're a turbo faggot
+2024-09-25 07:59:39	+johnny	agentmx_: in order to offend, you'd have to be offensive
+2024-09-25 07:59:51	+johnny	you're an alcoholic stalker on irc with a failed marriage
+2024-09-25 07:59:53	+agentmx_	well, she lft, so
+2024-09-25 08:00:10	+agentmx_	lol you are clueless and boring
+2024-09-25 08:00:11	+johnny	make sure your back yard is clean before you talk shit to anyone
+2024-09-25 08:00:20	+agentmx_	oh sure dad
+2024-09-25 08:00:26	+agentmx_	lol this kid
+2024-09-25 08:00:31	+incog	jgr is the back end piece of the weak troll human centipede
+2024-09-25 08:00:46	+incog	the lowest rank of bottom feeder
+2024-09-25 08:00:52	+johnny	incog is obsessed with the word "troll" yet anyone ever affiliated with GNAA has said how his life is in shambles
+2024-09-25 08:00:56	+johnny	hence why is he 40 and childless
+2024-09-25 08:01:03	+johnny	and single
+2024-09-25 08:01:06	+johnny	and sterile
+2024-09-25 08:01:10	+johnny	and addicted
+2024-09-25 08:01:13	+agentmx_	oh dear
+2024-09-25 08:01:17	+incog	he big mad
+2024-09-25 08:01:19	+agentmx_	weaksauce
+2024-09-25 08:01:24	+johnny	facts dont care about feelings
+2024-09-25 08:01:34	+zif	there were some females associated with GNAA
+2024-09-25 08:01:35	+fahrrad	40 and childless sounds like a pretty economical living
+2024-09-25 08:01:37	+johnny	im just telling the truth
+2024-09-25 08:01:41	+agentmx_	queer johnny seems to be melting down
+2024-09-25 08:01:43	+zif	a few i guess i dunno
+2024-09-25 08:01:45	+johnny	fahrrad: well sure, it is
+2024-09-25 08:01:52	rkorandy	how long does it take to charge an mp3 player
+2024-09-25 08:01:53	+zif	they were always dumping swastikas on IRC as i remember
+2024-09-25 08:01:59	+incog	not many zif, especially not when it was founded
+2024-09-25 08:02:10	+johnny	i'm sure he's happy being alone, sleep deprived, and blogging on irc while lying about having been in the navy
+2024-09-25 08:02:27	+johnny	he's been up all night again
+2024-09-25 08:02:44	+incog	are you here to bore me to sleep mr ambien
+2024-09-25 08:02:46	+agentmx_	this is the guy who accused me of 'stalking' lol the irony is lost on this one
+2024-09-25 08:03:01	+fahrrad	guys of a certain age get all kinds of tail
+2024-09-25 08:03:05	+johnny	agentmx_: i'm not stalking anyone
+2024-09-25 08:03:15	+agentmx_	sure, son.
+2024-09-25 08:03:24	+johnny	who am i stalking?
+2024-09-25 08:03:28	+johnny	a chimney sweep incel?
+2024-09-25 08:03:30	+johnny	lol
+2024-09-25 08:03:35	+incog	he has zero self awareness
+2024-09-25 08:03:40	+johnny	stealing my lines now
+2024-09-25 08:03:44	+agentmx_	gawd hes so BORING
+2024-09-25 08:03:46	+johnny	nice one
+2024-09-25 08:03:59	+agentmx_	ok goin for a surf
+2024-09-25 08:04:07	+incog	he always is, its a repetition cycle of things that dont land
+2024-09-25 08:04:07	+johnny	don't die old man, just don't die...
+2024-09-25 08:04:20	+johnny	incog how does mRNA work in the body?
+2024-09-25 08:05:07	+zif	i forgot what exactly it does, it sounded plausible last i read about it
+2024-09-25 08:05:36	+fahrrad	lets hear if the guy he asked knows
+2024-09-25 08:06:00	+johnny	he doesn't know, but makes wild claims about vaccines and calls other people "anti-vax"
+2024-09-25 08:06:14	+johnny	but i'm all ears... and eyes
+2024-09-25 08:06:21	+buff3r	and nosw
+2024-09-25 08:06:23	+buff3r	nose
+2024-09-25 08:06:26	+zif	I trust in mRNA as a solution to fast-emerging bio weapons
+2024-09-25 08:06:30	+zif	You can quickly make that
+2024-09-25 08:06:33	+incog	i shan't be engaging, its a typical technique of inducing boredom, he isnt in control here, he doesnt get to make demands
+2024-09-25 08:06:42	+fahrrad	they may call these things by fancy acronyms that people who took HS biology remember, but does anyone know for sure what's in it
+2024-09-25 08:06:47	+johnny	he always makes an excuse
+2024-09-25 08:06:47	+zif	pretend that covid was a bio weapon
+2024-09-25 08:07:11	+johnny	incog is just full of excuses
+2024-09-25 08:07:23	+incog	you have no control lil jgr
+2024-09-25 08:07:24	+fahrrad	as far as I can tell, the one member of my fam who didn't get the jab was just fine
+2024-09-25 08:07:26	+johnny	anthing to avoid answering and proving he isn't full of shit
+2024-09-25 08:07:32	+johnny	but i just controlled you right now
+2024-09-25 08:07:39	+zif	mrna vaccines could save hundreds of millions of lives literally
+2024-09-25 08:07:42	+fahrrad	so they coulda been shooting us with saline for all anyone knows
+2024-09-25 08:07:53	+fahrrad	"your tax dollars at work"
+2024-09-25 08:07:54	+johnny	could, potentially
+2024-09-25 08:08:12	+johnny	we will see, as the largest trial ever conducted in history was performed
+2024-09-25 08:08:27	+fahrrad	some young athletes died after getting the jab
+2024-09-25 08:08:34	+johnny	MANY
+2024-09-25 08:08:41	+fahrrad	Colin Powell died after getting the jab
+2024-09-25 08:08:52	+johnny	i guess it's normal for young people have heart attacks
+2024-09-25 08:08:53	+incog	and here comes the fearmongering of the cowardly
+2024-09-25 08:08:54	+johnny	to incog
+2024-09-25 08:08:55	+johnny	lol
+2024-09-25 08:09:01	+fahrrad	Joe Biden was a blithering idiot after getting the jab
+2024-09-25 08:09:04	+zif	you guys have not gotten vaccinated or just no mrna?
+2024-09-25 08:09:14	+zif	i got sick with covid once it was ass
+2024-09-25 08:09:15	+johnny	excess deaths are up, cardiologists are busier than ever before, but incog knows science
+2024-09-25 08:09:18	+fahrrad	and Kamala Harris is a waste of humanity after getting the jab
+2024-09-25 08:09:25	<--	rkorandy (~kvirc@71.214.176.44) has quit (KVIrc 5.2.4 Quasar http://www.kvirc.net/)
+2024-09-25 08:09:27	+johnny	even before
+2024-09-25 08:10:29	+fahrrad	mrna is technically NOT a vaccine
+2024-09-25 08:10:29	+johnny	this is where incog goes quiet, as his party was ruined by truth
+2024-09-25 08:10:45	+zif	kamala is honestly more trustworth than trump
+2024-09-25 08:10:55	+zif	trustworthy
+2024-09-25 08:10:56	+fahrrad	no matter how they try to redefine what a vaccine is, I won't allow it
+2024-09-25 08:10:58	+zif	trump is a flake
+2024-09-25 08:11:16	+fahrrad	kamala harris is maybe trustworthy if your name is george soros
+2024-09-25 08:11:19	+zif	trump is a performance artist
+2024-09-25 08:11:27	+johnny	it's not, mRNA is in itself just a type of mRNA but it's responsible for cell signaling  and synthesizing new dna among other things
+2024-09-25 08:11:35	<--	gay4pay (~louskunt@198.244.126.86) has quit (Quit: Ping timeout (120 seconds))
+2024-09-25 08:11:37	+johnny	or type of RNA, rather
+2024-09-25 08:11:38	+fahrrad	or if your name is willie brown, kamala would be trustworthy enough not to bite your cock
+2024-09-25 08:11:44	+johnny	among 3 types, with various sub-groups
+2024-09-25 08:11:50	+zif	i thought it was fragments of rna
+2024-09-25 08:11:59	+zif	that would make proteins
+2024-09-25 08:12:04	+zif	the same that the virus makes
+2024-09-25 08:12:05	+johnny	it's RNA itself
+2024-09-25 08:12:07	-->	gay4pay (~louskunt@198.244.126.86) has joined #philosophy
+2024-09-25 08:12:28	+johnny	but this mRNA is self replicating
+2024-09-25 08:12:33	+johnny	that is used for vaccines
+2024-09-25 08:12:57	+zif	it's not gene therapy/retrovirus though
+2024-09-25 08:13:03	+johnny	if harry potter over here knew how to read just 1 single study, he wouldn't make such bold claims
+2024-09-25 08:13:13	<--	enometh (~enometh@117.254.36.120) has quit (Ping timeout: 240 seconds)
+2024-09-25 08:13:13	+zif	is it even self replicating? i dont know how it works
+2024-09-25 08:13:14	+johnny	well zif what is gene therapy?
+2024-09-25 08:13:15	+fahrrad	I somehow don't get what the difference is between RNA and mRNA because RNA is transcribed from DNA and then exits the nucleus, gets into the ribosomes that then transcribe that into proteins
+2024-09-25 08:13:51	+johnny	RNA is the broad term
+2024-09-25 08:14:05	+johnny	and that transcription takes place via enzymes
+2024-09-25 08:14:26	+incog	your blogging isnt as compelling as you think it is lil johnny, im busy watching hezbollah being systematically demolished
+2024-09-25 08:14:28	+fahrrad	molecularly they're made up of the same basepairs adenine, cytosine, thymine and uracil
+2024-09-25 08:14:49	+incog	the antivax chumps already lost, years ago
+2024-09-25 08:14:51	+johnny	incog cool story no one cares
+2024-09-25 08:14:56	+buff3r	rna world
+2024-09-25 08:15:03	+johnny	fahrrad yep
+2024-09-25 08:15:09	+johnny	unlike DNA that is ATCG
+2024-09-25 08:15:37	+fahrrad	guanine in DNA codes to uracil in RNA
+2024-09-25 08:15:39	+johnny	but the base molecules are similar minus the replacement of uracil for guanine
+2024-09-25 08:15:48	+zif	if you are afraid of what they are injecting you with you should be afraid of what the chinese might put in your food or medicine
+2024-09-25 08:16:03	+incog	hes afraid of everything, it comes with being a coward
+2024-09-25 08:16:04	+johnny	well of course zif that's valid too
+2024-09-25 08:16:20	+fahrrad	"me chinese me make joke, me put pee-pee in your coke"
+2024-09-25 08:16:21	+johnny	incog is speaking about himself
+2024-09-25 08:16:38	+johnny	he's the king of projection, he thinks in 2024 that projecting every poor aspect of his life onto others will still work lol
+2024-09-25 08:17:18	+johnny	incog you stayed up all night now are watching people dying at 7am
+2024-09-25 08:17:26	+johnny	what have you accomplished in life today?
+2024-09-25 08:17:28	+incog	strange, you dont see me engaging in vapid fearmongering, your bread and butter cowardboy
+2024-09-25 08:17:44	+johnny	you engage in insulting, projecting, and lying
+2024-09-25 08:17:49	+johnny	that's who you are as a human being
+2024-09-25 08:17:59	+incog	facile shit from a butt
+2024-09-25 08:18:06	+johnny	you will die that way too, sadly
+2024-09-25 08:18:20	+johnny	it's not too late to change, i believe
+2024-09-25 08:18:28	+incog	now, back to monitoring the axis of feeble being stomped by israel
+2024-09-25 08:18:33	+johnny	but first get off the drugs
+2024-09-25 08:19:03	+zif	drugs are beneficial
+2024-09-25 08:19:10	+zif	you go way slower sober
+2024-09-25 08:19:10	+johnny	some, sure
+2024-09-25 08:19:26	+zif	you could spend months accomplishing what you could in a day on drugs
+2024-09-25 08:19:31	+johnny	lol
+2024-09-25 08:19:46	+johnny	like what?
+2024-09-25 08:20:09	+zif	are you trying to make me look stupid
+2024-09-25 08:20:33	+johnny	no i'm asking what one could accomplish in a day on drugs versus months of no drugs
+2024-09-25 08:20:40	+johnny	im genuinely curious
+2024-09-25 08:21:02	+johnny	unless you have debilitating pain, or something like that
+2024-09-25 08:21:22	+johnny	but even then, that's just a bandaid
+2024-09-25 08:21:23	+fahrrad	life is pain, lady.  anyone who says otherwise is selling something.
+2024-09-25 08:21:43	+johnny	there you go
+2024-09-25 08:22:04	+johnny	it definitely can be
+2024-09-25 08:22:53	 *	johnny waves at lncog
+2024-09-25 08:26:10	-->	ort_ (~igloo@109.138.241.206) has joined #philosophy
+2024-09-25 08:26:10	<--	ort (~igloo@109.138.241.206) has quit (Read error: Connection reset by peer)
+2024-09-25 08:28:50	+buff3r	i could be convinced
+2024-09-25 08:29:20	<--	gay4pay (~louskunt@198.244.126.86) has quit (Quit: Ping timeout (120 seconds))
+2024-09-25 08:29:53	-->	gay4pay (~louskunt@198.244.126.86) has joined #philosophy
+2024-09-25 08:30:04	<--	SharP (uid99501@id-99501.uxbridge.irccloud.com) has quit (Quit: Connection closed for inactivity)
+2024-09-25 08:34:21	+Anselm	50% of russians want putin to lose
+2024-09-25 08:34:56	+fahrrad	if only there were a guy they could replace him with
+2024-09-25 08:35:08	+fahrrad	is boris still around?
+2024-09-25 08:35:16	+Anselm	all power to the oblast
+2024-09-25 08:35:27	+fahrrad	the jewish oblast
+2024-09-25 08:35:42	+Anselm	there isnt much to that any more
+2024-09-25 08:37:22	+Anselm	putin took away so much power from the federal subjects that russia is now defined as a unitary state and not a federation
+2024-09-25 08:37:47	<--	resident- (~erasmus@syn-173-095-165-021.res.spectrum.com) has quit (Textual IRC Client: www.textualapp.com)
+2024-09-25 08:37:56	+johnny	where did you get that from Anselm ?
+2024-09-25 08:38:02	+johnny	that 50% want him to lose?
+2024-09-25 08:38:20	+johnny	the same place you got that the IDF is justified?
+2024-09-25 08:38:33	+johnny	and that ethnic cleansing ISNT occuring?
+2024-09-25 08:39:00	+fahrrad	someone like pirre bezhukov could step in
+2024-09-25 08:39:10	+johnny	(it's not justified, and it is occuring, as an FYI)
+2024-09-25 08:39:38	+johnny	israel has been committing crimes since before it was a country
+2024-09-25 08:39:40	+zif	it doesn't need to be justified or not
+2024-09-25 08:39:54	+zif	they perceive a hostile alien population in their borders
+2024-09-25 08:40:01	+zif	thats justification
+2024-09-25 08:40:02	+incog	it isnt occuring, the IDF is justified and if you were paying attention little johnny, last night on russian tv russias most prominent pro-putin propagandist suggest he resign
+2024-09-25 08:40:07	+johnny	look who showed up
+2024-09-25 08:40:08	+johnny	rofl
+2024-09-25 08:40:12	+johnny	just as i knew he would
+2024-09-25 08:40:31	+incog	your rampant contrarianism is tiresome and second hand
+2024-09-25 08:40:34	+zif	Israel doesn't have to be right or not to protect itself
+2024-09-25 08:40:35	+johnny	incog enoguh
+2024-09-25 08:40:39	+johnny	enouygh
+2024-09-25 08:40:41	+johnny	fuck
+2024-09-25 08:40:44	+johnny	enough
+2024-09-25 08:40:49	+johnny	you emerged within seconds
+2024-09-25 08:40:49	+agentmx_	 <+johnny> im genuinely curious << I knew it!
+2024-09-25 08:40:50	+incog	enoguh
+2024-09-25 08:41:06	+johnny	agentmx_: must've been sitting here too just staring at the screen
+2024-09-25 08:41:13	+johnny	never seen anything like this
+2024-09-25 08:41:23	+agentmx_	no im getting a wetsuit off
+2024-09-25 08:41:33	+agentmx_	are you still whining
+2024-09-25 08:41:43	+johnny	why are you lying?
+2024-09-25 08:41:49	+incog	a wailing wall of whine
+2024-09-25 08:41:55	+agentmx_	im not 
+2024-09-25 08:41:59	+johnny	incog you responded within 24 seconds 
+2024-09-25 08:42:14	+johnny	thought you were watching videos of people dying after being up the entire night
+2024-09-25 08:42:16	+johnny	lol
+2024-09-25 08:42:21	+agentmx_	want some cheese with that whine queer johnny
+2024-09-25 08:42:26	+incog	i am, terrorists are dying
+2024-09-25 08:42:38	+incog	the global south loses again
+2024-09-25 08:42:42	+johnny	you never served
+2024-09-25 08:43:13	+johnny	this isn't a first person shooter game
+2024-09-25 08:43:18	+zif	the palestinians are de facto wrong it doesn't matter what is "fair" or "right", their solution of dual statehood is impractical, at most would require not launching attacks into israel
+2024-09-25 08:43:19	+agentmx_	er yes i did, 9th batt rar 1970
+2024-09-25 08:43:26	+johnny	how are they wrong?
+2024-09-25 08:43:30	+Anselm	Oceania vs. Eurasia
+2024-09-25 08:43:38	+incog	you keep repeating that as if you deserve the attention to be shit on, its the first thing you learned from CoMBo, to lie and then wait for somebody to correct you
+2024-09-25 08:43:43	+zif	you can't randomly go raiding into israel and raping women and raiding concerts and abducting people
+2024-09-25 08:43:48	+zif	that is going to = smack down
+2024-09-25 08:43:52	+johnny	why is it impractical when the UN offered the solution even against their will in 1948/1949
+2024-09-25 08:44:00	+johnny	but nobody was raped
+2024-09-25 08:44:04	+zif	shut up
+2024-09-25 08:44:05	+johnny	that was never proven
+2024-09-25 08:44:08	+zif	you are trolling
+2024-09-25 08:44:19	+johnny	zif do you know the source of that information?
+2024-09-25 08:44:22	+Anselm	There is the 9/11 principle
+2024-09-25 08:44:22	+zif	theres video at least of them parading corpses
+2024-09-25 08:44:25	+johnny	1 NYT writer
+2024-09-25 08:44:33	+incog	i can show you a rape victim, still bleeding from their vagina little johnny
+2024-09-25 08:44:39	+johnny	no you can't
+2024-09-25 08:44:47	+agentmx_	johnny, you arent making many friends, if that is your intention. Conversely, you sound like a total whining twat
+2024-09-25 08:44:47	+johnny	you can show someone being transported from a vehicle
+2024-09-25 08:44:52	+johnny	that's about it
+2024-09-25 08:44:55	+johnny	that's all that exists
+2024-09-25 08:45:06	+agentmx_	and you are projecting like a first night premiere
+2024-09-25 08:45:11	+zif	fuck palestine really
+2024-09-25 08:45:12	+johnny	blood on a skirt does not mean someone was raped
+2024-09-25 08:45:18	+zif	shut up
+2024-09-25 08:45:22	+zif	you are just trolling
+2024-09-25 08:45:25	+johnny	zif well you don't really know, you're not jewish, you're not from there
+2024-09-25 08:45:30	+johnny	you haven't followed the history
+2024-09-25 08:45:33	+agentmx_	hes carp at it too
+2024-09-25 08:45:34	+johnny	i don't blame you for not knowing
+2024-09-25 08:45:36	+agentmx_	crap
+2024-09-25 08:45:41	+agentmx_	or carp
+2024-09-25 08:46:28	+johnny	its too late and i've had this convo too many times but if you really want to learn and educate yourself on the topic and i can point you to hundreds of sources
+2024-09-25 08:46:39	+agentmx_	just......go away
+2024-09-25 08:46:42	+johnny	people with journalistic integrity
+2024-09-25 08:46:44	+agentmx_	back to chode
+2024-09-25 08:46:50	+johnny	agentmx_: you need to relax, you failed
+2024-09-25 08:46:50	+zif	troll account
+2024-09-25 08:46:56	+zif	he's a mossad troll bot
+2024-09-25 08:47:02	+johnny	who agent?
+2024-09-25 08:47:12	+zif	you
+2024-09-25 08:47:16	+johnny	a mossad troll bot would shill for israel you goof
+2024-09-25 08:47:17	+johnny	lol
+2024-09-25 08:47:21	+johnny	like they do on twitter/x
+2024-09-25 08:47:32	+zif	you're making yourself look stupid on purpose
+2024-09-25 08:47:41	+johnny	b/c i know more about the conflict?
+2024-09-25 08:47:48	+johnny	that doesn't make much sense
+2024-09-25 08:47:48	+agentmx_	i think its just him
+2024-09-25 08:48:05	+agentmx_	cant polish a turd
+2024-09-25 08:48:08	+johnny	no babies were beheaded either
+2024-09-25 08:48:16	+johnny	another lie that they had to back up from quick
+2024-09-25 08:48:26	+zif	johnny = incog
+2024-09-25 08:48:27	+johnny	who built the tunnels under Al-Shifa hospital?
+2024-09-25 08:48:29	+zif	arguing with himself
+2024-09-25 08:48:34	+zif	trolling
+2024-09-25 08:48:48	+johnny	it's amazing that you think i'm trolling
+2024-09-25 08:48:55	+zif	the both of them are a nonstop stream of bad takes
+2024-09-25 08:49:11	+johnny	i told you politely that i can point you to hundreds of sources, books, print, whatever you'd like
+2024-09-25 08:49:36	+johnny	i have a bad take in sayign that Israel lies? and that innocent people are dying?
+2024-09-25 08:49:44	+zif	i dnt even care after the video that i saw i just wish the people in the gaza strip would go somewhere else
+2024-09-25 08:49:52	+johnny	why?
+2024-09-25 08:49:53	+zif	time to move
+2024-09-25 08:49:56	+johnny	they are FROM there
+2024-09-25 08:50:00	+zif	they are bad neighbors
+2024-09-25 08:50:03	+zif	the jews are from there
+2024-09-25 08:50:11	+johnny	European jews?
+2024-09-25 08:50:14	+johnny	lol
+2024-09-25 08:50:16	+zif	yes all of them
+2024-09-25 08:50:25	+johnny	i'm jewish and even i know that's not true
+2024-09-25 08:50:27	+zif	they married european women to an extent but they are still jews
+2024-09-25 08:50:36	+johnny	and palestinians are from there too
+2024-09-25 08:50:44	+johnny	with DNA to confirm that
+2024-09-25 08:50:49	+zif	you're a race traitor?
+2024-09-25 08:51:03	+incog	https://pbs.twimg.com/media/GX2MWkgWYAANcvS?format=jpg&name=small - this is your precious hamas that you so willfully lie for
+2024-09-25 08:51:22	+buff3r	wtf is a race traitor anyways
+2024-09-25 08:51:23	+johnny	i don't click chimney sweep links
+2024-09-25 08:51:40	+johnny	post the link where you got it from
+2024-09-25 08:51:41	+zif	a race traitor is e.g. a jew who doesn't take the side of the jews
+2024-09-25 08:51:57	+incog	he's a coward zif, nothing more nothing less
+2024-09-25 08:52:00	+johnny	zif that makes no sense and you sound fucking retarded
+2024-09-25 08:52:05	+johnny	lol @ incog needing support
+2024-09-25 08:52:24	+buff3r	how come only racists use that phrase 
+2024-09-25 08:52:29	+johnny	exactly
+2024-09-25 08:52:37	+johnny	always white racists too
+2024-09-25 08:52:37	+zif	i meant it semi-ironically
+2024-09-25 08:53:08	+zif	the idea applies, a jew who does not defend israel and other jews is a traitor
+2024-09-25 08:53:15	+johnny	false
+2024-09-25 08:53:44	+johnny	first of all dumb-dumb
+2024-09-25 08:53:46	+incog	he would rather simp for terrorists because CoMBo hates jews and CoMBo trained this little cowardly worm
+2024-09-25 08:53:49	+buff3r	i see
+2024-09-25 08:53:54	+johnny	zionism is ethnoreligious supremacy
+2024-09-25 08:54:03	+johnny	secondly, not all jews are for israel
+2024-09-25 08:54:22	+johnny	as i said you dont know much about the topic
+2024-09-25 08:54:22	+zif	israel represents the national interest of jews
+2024-09-25 08:54:31	+johnny	no, it represents the national interest of zionists
+2024-09-25 08:54:33	+johnny	not jews
+2024-09-25 08:54:37	+incog	he does what CoMBo tells him to, if that is to hate himself, so be it
+2024-09-25 08:54:41	+incog	zero spine
+2024-09-25 08:54:43	+zif	jews have like two countries to live in
+2024-09-25 08:54:49	+zif	that are "safe"
+2024-09-25 08:54:51	+johnny	are you jewish?
+2024-09-25 08:55:11	+johnny	why the pause?
+2024-09-25 08:55:55	+johnny	jews have it better than every other group in every country
+2024-09-25 08:55:59	+incog	as head as empty as his self respect
+2024-09-25 08:56:03	+johnny	the laws prove that
+2024-09-25 08:56:19	+Anselm	canada is safe for jews
+2024-09-25 08:56:25	+johnny	incog installs mudflaps i have been to college, and he's saying my head is empty LOL
+2024-09-25 08:56:34	+incog	your head is empty
+2024-09-25 08:56:41	+johnny	incog your life is empty
+2024-09-25 08:56:42	+incog	you have a second hand personality 
+2024-09-25 08:56:46	+johnny	you have no life experience
+2024-09-25 08:56:50	+incog	you are a sidekick
+2024-09-25 08:56:57	+johnny	you can't just browse 4chan boards and think you know everything, you dont know shit
+2024-09-25 08:57:11	+johnny	sorry kiddo, not how it works
+2024-09-25 08:57:53	+incog	the irony of that is, its where your master gets all his stale links
+2024-09-25 08:58:06	+johnny	who is my master?
+2024-09-25 08:58:09	+incog	CoMBo
+2024-09-25 08:58:16	+johnny	according to?
+2024-09-25 08:58:33	-->	tripedal` (~tripedal@d75-159-148-111.abhsia.telus.net) has joined #philosophy
+2024-09-25 08:58:37	+incog	anybody who has the misfortune of chatting near you
+2024-09-25 08:58:40	+johnny	chimney sweep peasant?
+2024-09-25 08:58:41	+zif	hi tripedal
+2024-09-25 08:59:27	+johnny	nobody educated would ever listen to you incog, that's why you're here, starting over, trying to "rebuild" your irc persona
+2024-09-25 08:59:43	+zif	incog = johnny
+2024-09-25 08:59:46	+johnny	lol
+2024-09-25 08:59:49	+zif	two chatbots of the same owner
+2024-09-25 08:59:53	+johnny	i do find that funny zif
+2024-09-25 09:00:22	+johnny	sort of ruins it for incog
+2024-09-25 09:00:43	+johnny	incog can you help me with my chem II homework due tmrw?
+2024-09-25 09:03:29	<--	tripedal (~tripedal@d75-159-148-111.abhsia.telus.net) has quit (Read error: Operation timed out)
+2024-09-25 09:04:03	-->	tripedal (~tripedal@d75-159-148-111.abhsia.telus.net) has joined #philosophy
+2024-09-25 09:04:35	+fahrrad	i drank green tea
+2024-09-25 09:04:53	+fahrrad	I wonder if  I'll be able to sleep in the next hour
+2024-09-25 09:05:01	+zif	sure
+2024-09-25 09:05:13	+zif	fall asleep listening to some mindless shit on netflix or youtube
+2024-09-25 09:05:24	+J-hex	the topic is gay typical
+2024-09-25 09:05:31	+fahrrad	shit'll probably have backmasking to make me a fag by morning
+2024-09-25 09:07:14	+fahrrad	I'll tune to 156.600 and listen to vessel traffic
+2024-09-25 09:07:33	+zif	are you wasting my time
+2024-09-25 09:07:38	+zif	i have to screw my antenna on
+2024-09-25 09:07:46	+fahrrad	do it man
+2024-09-25 09:07:53	+fahrrad	uscg vessel traffic
+2024-09-25 09:08:09	+incog	time for work, i wonder if Hassan Nasrallah, the only component of hezbollahs leadership left will be still alive when i get back
+2024-09-25 09:08:26	+zif	oh my radio battery is literally dead i guess
+2024-09-25 09:08:26	+incog	he's been in hiding for years
+2024-09-25 09:08:46	<--	tripedal` (~tripedal@d75-159-148-111.abhsia.telus.net) has quit (Read error: Operation timed out)
+2024-09-25 09:09:40	+johnny	incog is about to go make minimum wage for being low IQ after staying up the whole night studying propaganda
+2024-09-25 09:09:41	+johnny	lol
+2024-09-25 09:10:07	+zif	im not getting anything on 156.600
+2024-09-25 09:10:13	+fahrrad	you wanna know what's great though is the battery sled that takes 6 AA's 
+2024-09-25 09:10:26	+zif	is it FM
+2024-09-25 09:10:34	+Anselm	no
+2024-09-25 09:10:34	+fahrrad	15 mins after the top of the hour
+2024-09-25 09:10:50	+fahrrad	yeah FM
+2024-09-25 09:12:15	+zif	the radio's gps isnt connecting eitehr so i dunno
+2024-09-25 09:12:24	+zif	probably not gonna get anything inside
+2024-09-25 09:16:43	+fahrrad	I have line of sight to the southern ship channel so it comes in pretty clear
+2024-09-25 09:19:19	+zif	i gave up
+2024-09-25 09:22:05	+zif	well that was some spicy chat
+2024-09-25 09:22:20	+zif	spicy memes
+2024-09-25 09:25:15	+fahrrad	art bell is out there
+2024-09-25 09:25:46	+fahrrad	you can find him in the tesseract
+2024-09-25 09:26:10	+zif	art bell is like alex jones right?
+2024-09-25 09:26:47	+fahrrad	if you can say casey kasem is like alex jones, then yeah
+2024-09-25 09:26:55	+fahrrad	they're on the radio
+2024-09-25 09:27:20	+zif	i thought art bell was a crazy
+2024-09-25 09:28:00	+fahrrad	"they" will call someone a crazy if that someone has gotten close to the truth
+2024-09-25 09:31:05	+zif	sometimes just because they are crazy
+2024-09-25 09:31:38	+fahrrad	well if a psychiatrist says so, it might be credible
+2024-09-25 09:34:20	+zif	all conspiracy theorists are under-diagnosed
+2024-09-25 09:34:28	+zif	it's a personality disorder at best
+2024-09-25 09:35:07	+zif	the stories are unbelievable because they are unnecessary explanations
+2024-09-25 09:35:13	+zif	fails occam's razor
+2024-09-25 09:35:21	+fahrrad	consider, if an intelligence from outside the earth can get here, and that if humanity has documented sightings for thousands of years, they could have destroyed our entire existence at any time
+2024-09-25 09:35:38	+fahrrad	but they didn't
+2024-09-25 09:35:57	+zif	oh
+2024-09-25 09:36:10	+zif	i think there are probably aliens here
+2024-09-25 09:36:29	+zif	i don't think i have evidence for that though
+2024-09-25 09:36:35	+zif	i don't think anyone else should believe that
+2024-09-25 09:37:18	+fahrrad	angels are an intelligence from outside the earth
+2024-09-25 09:37:43	+zif	maybe maybe not
+2024-09-25 09:38:15	+fahrrad	I mean, which is more likely, angels, or biological entities from a far off star system who arrive here via an artificial conveyance
+2024-09-25 09:38:50	-->	ort (~igloo@109.138.241.206) has joined #philosophy
+2024-09-25 09:38:50	<--	ort_ (~igloo@109.138.241.206) has quit (Read error: Connection reset by peer)
+2024-09-25 09:42:22	+zif	I won’t pretend I have answers
+2024-09-25 09:43:51	+fahrrad	both ideas require a bit of suspension of disbelief
+2024-09-25 09:44:23	+fahrrad	some people talk about sleep paralysis
+2024-09-25 09:44:30	+fahrrad	they say they're being attacked by a hag
+2024-09-25 09:44:45	+fahrrad	or they're being tormented by a demonic thing
+2024-09-25 09:44:58	+fahrrad	in the case of whitley streiber he was getting abducted by aliens
+2024-09-25 09:45:08	@typhon	Someone told me there's heresy afoot.
+2024-09-25 09:49:07	+space	i get sleep paralysis
+2024-09-25 09:49:44	+J-hex	who runs #philosophy's HR department we've some compaints to register
+2024-09-25 10:02:39	+buff3r	pussy from a sleep paralysis demon 
