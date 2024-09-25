@@ -42,13 +42,43 @@ async function searchMessages(event) {
             messageDiv.classList.add("message");
             messageDiv.innerHTML = `<span class="timestamp">${result.timestamp}</span>
                                     <span class="username">${result.username}</span>: ${result.message}`;
-
+            
             // Add a click event to each message to show it in context of the full log
             messageDiv.onclick = () => showMessageInContext(result.timestamp);
             resultsContainer.appendChild(messageDiv);
         });
     } else {
         resultsContainer.innerHTML = "<p>No messages found for this username.</p>";
+    }
+}
+
+// Function to search and display messages by any word in the log
+async function searchByWord() {
+    // Get the search query (word)
+    const keyword = document.getElementById("keyword").value.toLowerCase();
+    const resultsContainer = document.getElementById("results");
+    resultsContainer.innerHTML = ""; // Clear previous results
+
+    // Fetch the logs from the txt file
+    const logs = await fetchLogs();
+
+    // Filter logs by the keyword in the message content
+    const results = logs.filter(log => log.message.toLowerCase().includes(keyword));
+
+    // Display the results
+    if (results.length > 0) {
+        results.forEach(result => {
+            const messageDiv = document.createElement("div");
+            messageDiv.classList.add("message");
+            messageDiv.innerHTML = `<span class="timestamp">${result.timestamp}</span>
+                                    <span class="username">${result.username}</span>: ${result.message}`;
+            
+            // Add a click event to each message to show it in context of the full log
+            messageDiv.onclick = () => showMessageInContext(result.timestamp);
+            resultsContainer.appendChild(messageDiv);
+        });
+    } else {
+        resultsContainer.innerHTML = "<p>No messages found containing this word.</p>";
     }
 }
 
@@ -64,7 +94,7 @@ async function showMessageInContext(clickedTimestamp) {
     logs.forEach(result => {
         const messageDiv = document.createElement("div");
         messageDiv.classList.add("message");
-
+        
         // Check if the current message is the one that was clicked
         if (result.timestamp === clickedTimestamp) {
             messageDiv.style.backgroundColor = "#ffeb3b"; // Highlight the clicked message
