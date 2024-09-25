@@ -27,22 +27,14 @@
             border: 1px solid #ccc;
             border-radius: 5px;
         }
-        input[type="submit"] {
+        input[type="submit"], button {
             padding: 10px 15px;
             background-color: #5cb85c;
             color: white;
             border: none;
             border-radius: 5px;
             cursor: pointer;
-        }
-        button {
-            padding: 10px 15px;
             margin-top: 10px;
-            background-color: #0275d8;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
         }
         .results {
             margin-top: 20px;
@@ -73,6 +65,13 @@
             </form>
             <button onclick="showCompleteLog()">Show Complete Log</button>
         </div>
+
+        <div class="search-box">
+            <label for="keyword">Search by any word:</label>
+            <input type="text" id="keyword" placeholder="Enter any word...">
+            <button onclick="searchByWord()">Search by Word</button>
+        </div>
+
         <div class="results" id="results">
         </div>
     </div>
